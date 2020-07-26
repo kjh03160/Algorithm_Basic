@@ -10,31 +10,38 @@
 
 
 def trapping_rain(buildings):
+    """
+    1. 현재 인덱스의 왼쪽에서 가장 높은 건물의 높이를 구한다
+    2. 현재 인덱스의 오른쪽에서 가장 높은 건물의 높이를 구한다
+    3. 그 중 더 낮은 건물의 높이를 구한다
+    4. 그 높이에서 현재 인덱스에 있는 건물의 높이를 뺀다
+    """
     result = 0
     length = len(buildings)
+    # 현재 위치 탐색
     for i in range(1, length - 1):
         now = buildings[i]
         left_height = 0
         right_height = 0
 
         # 왼쪽 가장 큰 건물 찾기
-        for left in range(i):
+        for left in range(i):   # max(buildings[:i])
             if buildings[left] > left_height:
                 left_height = buildings[left]
 
         # 오른쪽 가장 큰 건물 찾기
-        for right in range(i + 1, length):
+        for right in range(i + 1, length):  # max(buildings[i + 1:])
             if buildings[right] > right_height:
                 right_height = buildings[right]
 
         # 더 낮은 건물 찾기
         standard = left_height
-        if standard > right_height:
+        if standard > right_height:     # min(left_height, right_height)
             standard = right_height
 
         rains = standard - now
         # 현재 건물보다 큰 건물로 둘러싸여 있지 않을 경우
-        if rains < 0:
+        if rains < 0:       # max(0, standard - now)
             continue
 
         result += rains
