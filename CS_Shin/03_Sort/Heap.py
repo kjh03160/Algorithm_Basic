@@ -38,7 +38,7 @@ class Heap:
 
     def make_heap(self):
         n = len(self.A)
-        for k in range(n - 1, -1, -1): # 리프노드는 자식 없으므로 할 필요 없음
+        for k in range(n // 2 - 1, -1, -1): # 리프노드는 자식 없으므로 할 필요 없음
             self.heapify_down(k, n)  # arr[k] 힙성질 만족하도록
 
     def heap_sort(self):
@@ -53,4 +53,3 @@ class Heap:
         x = self.A.pop()
         self.heapify_down(0, len(self.A))
         return x
-
