@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CS_Shin/02_Divide_Conquer/max_sum.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CS_Shin/04_Dynamic_Programming/fibonicci.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CS_Shin/04_Dynamic_Programming/max_sum.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CS_Shin/04_Dynamic_Programming/stair.py" afterDir="false" />
@@ -224,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596897123579</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="D &amp; C max_sum">
+      <created>1597063681691</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1597063681691</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -234,7 +240,8 @@
     <MESSAGE value="K closest" />
     <MESSAGE value="sort part 1" />
     <MESSAGE value="Heap sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="Heap sort" />
+    <MESSAGE value="D &amp; C max_sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="D &amp; C max_sum" />
   </component>
   <component name="WindowStateProjectService">
     <state x="480" y="4" key="#quick_sort" timestamp="1595745769585">
@@ -245,26 +252,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="480" y="4" key="#trapping_rain/0.0.1536.824@0.0.1536.824" timestamp="1595668273189" />
-    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1596897122758">
+    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1597063680219">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596897122758" />
-    <state width="1515" height="211" key="GridCell.Tab.0.bottom" timestamp="1597062837770">
+    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1597063680219" />
+    <state width="1515" height="211" key="GridCell.Tab.0.bottom" timestamp="1597063625442">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597062837770" />
-    <state width="1515" height="211" key="GridCell.Tab.0.center" timestamp="1597062837770">
+    <state width="1515" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597063625442" />
+    <state width="1515" height="211" key="GridCell.Tab.0.center" timestamp="1597063625442">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597062837770" />
-    <state width="1515" height="211" key="GridCell.Tab.0.left" timestamp="1597062837770">
+    <state width="1515" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597063625442" />
+    <state width="1515" height="211" key="GridCell.Tab.0.left" timestamp="1597063625442">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597062837770" />
-    <state width="1515" height="211" key="GridCell.Tab.0.right" timestamp="1597062837770">
+    <state width="1515" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597063625442" />
+    <state width="1515" height="211" key="GridCell.Tab.0.right" timestamp="1597063625442">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597062837770" />
+    <state width="1515" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597063625442" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1596783937799">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
