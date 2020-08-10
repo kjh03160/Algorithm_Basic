@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CS_Shin/02_Divide_Conquer/max_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS_Shin/04_Dynamic_Programming/fibonicci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS_Shin/04_Dynamic_Programming/max_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS_Shin/04_Dynamic_Programming/stair.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,28 +40,7 @@
       <recent name="C:\Users\kis03\Desktop\알고리즘\Sorting" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Heap">
-    <configuration name="Bubble" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="알고리즘" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS_Shin/03_Sort" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS_Shin/03_Sort/Bubble.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.max_sum (1)">
     <configuration name="Heap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Selection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="max_sum (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,11 +112,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS_Shin/03_Sort" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS_Shin/02_Divide_Conquer" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS_Shin/03_Sort/Selection.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS_Shin/02_Divide_Conquer/max_sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="max_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS_Shin/04_Dynamic_Programming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS_Shin/04_Dynamic_Programming/max_sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.max_sum (1)" />
+        <item itemvalue="Python.max_sum" />
         <item itemvalue="Python.Heap" />
         <item itemvalue="Python.Merge" />
         <item itemvalue="Python.Quicksort" />
-        <item itemvalue="Python.Bubble" />
-        <item itemvalue="Python.Selection" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596894686268</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Heap sort">
+      <created>1596897123579</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1596897123579</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -234,34 +245,34 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="480" y="4" key="#trapping_rain/0.0.1536.824@0.0.1536.824" timestamp="1595668273189" />
-    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1596894685358">
+    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1596897122758">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596894685358" />
-    <state width="747" height="209" key="GridCell.Tab.0.bottom" timestamp="1596894289329">
+    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596897122758" />
+    <state width="1515" height="211" key="GridCell.Tab.0.bottom" timestamp="1597062837770">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="747" height="209" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596894289329" />
-    <state width="747" height="209" key="GridCell.Tab.0.center" timestamp="1596894289329">
+    <state width="1515" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597062837770" />
+    <state width="1515" height="211" key="GridCell.Tab.0.center" timestamp="1597062837770">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="747" height="209" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596894289329" />
-    <state width="747" height="209" key="GridCell.Tab.0.left" timestamp="1596894289328">
+    <state width="1515" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597062837770" />
+    <state width="1515" height="211" key="GridCell.Tab.0.left" timestamp="1597062837770">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="747" height="209" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596894289328" />
-    <state width="747" height="209" key="GridCell.Tab.0.right" timestamp="1596894289329">
+    <state width="1515" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597062837770" />
+    <state width="1515" height="211" key="GridCell.Tab.0.right" timestamp="1597062837770">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="747" height="209" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596894289329" />
+    <state width="1515" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597062837770" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1596783937799">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1596783937799" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1596894690973">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1596897127599">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596894690973" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596897127599" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1596440399168">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
