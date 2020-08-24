@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CS_Shin/04_Dynamic_Programming/matrix_mult.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS_Shin/04_Dynamic_Programming/zigzag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeit/Greedy/course_selection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeit/Greedy/max_product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeit/Greedy/min_coin_count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Codeit/Greedy/min_fee.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS_Shin/04_Dynamic_Programming/LCS.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS_Shin/04_Dynamic_Programming/LCS.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,15 +33,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Sorting" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\kis03\Desktop\알고리즘\Sorting" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.LCS">
-    <configuration name="LCS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="course_selection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,11 +49,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS_Shin/04_Dynamic_Programming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Codeit/Greedy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS_Shin/04_Dynamic_Programming/LCS.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codeit/Greedy/course_selection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -61,7 +62,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="matrix_mult" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="max_product" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +70,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS_Shin/04_Dynamic_Programming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Codeit/Greedy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS_Shin/04_Dynamic_Programming/matrix_mult.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codeit/Greedy/max_product.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="max_sum (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="min_coin_count" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +91,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS_Shin/02_Divide_Conquer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Codeit/Greedy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS_Shin/02_Divide_Conquer/max_sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codeit/Greedy/min_coin_count.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="min_fee" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Codeit/Greedy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codeit/Greedy/min_fee.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,34 +146,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zigzag" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="알고리즘" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS_Shin/04_Dynamic_Programming" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS_Shin/04_Dynamic_Programming/zigzag.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.LCS" />
-        <item itemvalue="Python.matrix_mult" />
-        <item itemvalue="Python.zigzag" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.max_sum (1)" />
+        <item itemvalue="Python.course_selection" />
+        <item itemvalue="Python.min_fee" />
+        <item itemvalue="Python.max_product" />
+        <item itemvalue="Python.min_coin_count" />
       </list>
     </recent_temporary>
   </component>
@@ -244,11 +245,17 @@
       <option name="project" value="LOCAL" />
       <updated>1597933768218</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Dynamic Programming">
+      <created>1598174959954</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1598174959954</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Dynamic Programming" />
     <MESSAGE value="Divide Conquer" />
     <MESSAGE value="Divide Conquer prac, K closest yet" />
     <MESSAGE value="K closest" />
@@ -257,7 +264,8 @@
     <MESSAGE value="D &amp; C max_sum" />
     <MESSAGE value="Dynamic Programming 1" />
     <MESSAGE value="Dynamic Programming LCS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dynamic Programming LCS" />
+    <MESSAGE value="Dynamic Programming" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dynamic Programming" />
   </component>
   <component name="WindowStateProjectService">
     <state x="480" y="4" key="#quick_sort" timestamp="1595745769585">
@@ -268,38 +276,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="480" y="4" key="#trapping_rain/0.0.1536.824@0.0.1536.824" timestamp="1595668273189" />
-    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1597933766804">
+    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1598174958926">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1597933766804" />
-    <state width="746" height="169" key="GridCell.Tab.0.bottom" timestamp="1598174882918">
+    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1598174958926" />
+    <state width="1515" height="222" key="GridCell.Tab.0.bottom" timestamp="1598259118502">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="169" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598174882918" />
-    <state width="746" height="169" key="GridCell.Tab.0.center" timestamp="1598174882918">
+    <state width="1515" height="222" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598259118502" />
+    <state width="1515" height="222" key="GridCell.Tab.0.center" timestamp="1598259118501">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="169" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598174882918" />
-    <state width="746" height="169" key="GridCell.Tab.0.left" timestamp="1598174882918">
+    <state width="1515" height="222" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598259118501" />
+    <state width="1515" height="222" key="GridCell.Tab.0.left" timestamp="1598259118501">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="169" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598174882918" />
-    <state width="746" height="169" key="GridCell.Tab.0.right" timestamp="1598174882918">
+    <state width="1515" height="222" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598259118501" />
+    <state width="1515" height="222" key="GridCell.Tab.0.right" timestamp="1598259118502">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="169" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598174882918" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1597993562353">
+    <state width="1515" height="222" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598259118502" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1598261704473">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1597993562353" />
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1598261704473" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1596783937799">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1596783937799" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1597933772149">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1598174963403">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1597933772149" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1598174963403" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1597998260596">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
