@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CS_Shin/06_Back_Tracking/KnampSack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CS_Shin/06_Back_Tracking/KnapSack.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CS_Shin/06_Back_Tracking/N_Queens.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CS_Shin/06_Back_Tracking/Subset_Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Back_Tracking/KnapSack.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/practice/Back_Tracking/N_Queens.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/practice/Back_Tracking/Subset_Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Divide_Conquer/222pulling_17829.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Divide_Conquer/Moo_5904.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Greedy/Meeting.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS_Shin/Greedy/Activity_Selection.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS_Shin/05_Greedy/Activity_Selection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS_Shin/Greedy/Huffman_Coding.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS_Shin/05_Greedy/Huffman_Coding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS_Shin/05_Greedy/Huffman_Coding.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS_Shin/05_Greedy/Huffman_Coding.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +48,8 @@
       <recent name="C:\Users\kis03\Desktop\알고리즘\practice\Dynamic_Programming" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.KnampSack">
-    <configuration name="222pulling_17829" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.zigzag">
+    <configuration name="Huffman_Coding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,11 +57,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/Divide_Conquer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS_Shin/05_Greedy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Divide_Conquer/222pulling_17829.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS_Shin/05_Greedy/Huffman_Coding.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="KnampSack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="KnapSack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,7 +82,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS_Shin/06_Back_Tracking/KnampSack.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\kis03\Desktop\알고리즘\CS_Shin\06_Back_Tracking\KnapSack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="N_Queens" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Meeting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +99,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/Back_Tracking" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/Greedy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Back_Tracking/N_Queens.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Greedy/Meeting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="zigzag" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS_Shin/04_Dynamic_Programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS_Shin/04_Dynamic_Programming/zigzag.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.KnampSack" />
+        <item itemvalue="Python.zigzag" />
+        <item itemvalue="Python.Huffman_Coding" />
+        <item itemvalue="Python.Meeting" />
+        <item itemvalue="Python.KnapSack" />
         <item itemvalue="Python.Subset_Sum" />
-        <item itemvalue="Python.N_Queens" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.222pulling_17829" />
       </list>
     </recent_temporary>
   </component>
@@ -303,7 +302,21 @@
       <option name="project" value="LOCAL" />
       <updated>1598416843284</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Greedy">
+      <created>1600607740749</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1600607740749</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Greedy practice">
+      <created>1600607753898</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1600607753898</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -316,11 +329,12 @@
     <MESSAGE value="Dynamic Programming 1" />
     <MESSAGE value="Dynamic Programming LCS" />
     <MESSAGE value="Dynamic Programming" />
-    <MESSAGE value="Greedy" />
     <MESSAGE value="Brute Force prac" />
     <MESSAGE value="DP prac" />
     <MESSAGE value="Divide Conquer prac" />
-    <option name="LAST_COMMIT_MESSAGE" value="Divide Conquer prac" />
+    <MESSAGE value="Greedy" />
+    <MESSAGE value="Greedy practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Greedy practice" />
   </component>
   <component name="WindowStateProjectService">
     <state x="499" y="161" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599919262976">
@@ -335,42 +349,42 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="480" y="4" key="#trapping_rain/0.0.1536.824@0.0.1536.824" timestamp="1595668273189" />
-    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1598416840510">
+    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1600607752620">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1598416840510" />
-    <state width="1515" height="158" key="GridCell.Tab.0.bottom" timestamp="1600607533008">
+    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600607752620" />
+    <state width="1515" height="261" key="GridCell.Tab.0.bottom" timestamp="1600623676362">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="158" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600607533008" />
-    <state width="1515" height="158" key="GridCell.Tab.0.center" timestamp="1600607533008">
+    <state width="1515" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600623676362" />
+    <state width="1515" height="261" key="GridCell.Tab.0.center" timestamp="1600623676362">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="158" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600607533008" />
-    <state width="1515" height="158" key="GridCell.Tab.0.left" timestamp="1600607533008">
+    <state width="1515" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600623676362" />
+    <state width="1515" height="261" key="GridCell.Tab.0.left" timestamp="1600623676362">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="158" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600607533008" />
-    <state width="1515" height="158" key="GridCell.Tab.0.right" timestamp="1600607533008">
+    <state width="1515" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600623676362" />
+    <state width="1515" height="261" key="GridCell.Tab.0.right" timestamp="1600623676362">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="158" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600607533008" />
-    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1600602774181">
+    <state width="1515" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600623676362" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1600623676362">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600602774181" />
-    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1600602774181">
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600623676362" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1600623676362">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600602774181" />
-    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1600602774180">
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600623676362" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1600623676362">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600602774180" />
-    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1600602774181">
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600623676362" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1600623676362">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600602774181" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600623676362" />
     <state x="559" y="38" key="SettingsEditor" timestamp="1598870559899">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -379,10 +393,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1596783937799" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1598416845229">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600608047252">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1598416845229" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600608047252" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1600530464293">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
