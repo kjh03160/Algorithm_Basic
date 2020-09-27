@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/6186
+
 def dfs(row, col):
     for dr, dc in [(0, 1), (1, 0),(0, -1), (-1, 0)]:
         if 0 <= row + dr < r and 0 <= col + dc < c and board[row + dr][col + dc] == '#':
