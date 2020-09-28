@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CS_Shin/06_Back_Tracking/KnapSack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS_Shin/06_Back_Tracking/N_Queens.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS_Shin/06_Back_Tracking/Subset_Sum.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/practice/Back_Tracking/KnapSack.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/practice/Back_Tracking/N_Queens.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/practice/Back_Tracking/Subset_Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Greedy/Meeting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/Island_4963.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Max_mul_2670.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CS_Shin/05_Greedy/Huffman_Coding.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS_Shin/05_Greedy/Huffman_Coding.py" afterDir="false" />
     </list>
@@ -37,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Sorting" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -48,8 +46,8 @@
       <recent name="C:\Users\kis03\Desktop\알고리즘\practice\Dynamic_Programming" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.zigzag">
-    <configuration name="Huffman_Coding" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Max_mul_2670 (1)">
+    <configuration name="Best_Grass_6186" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,11 +55,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS_Shin/05_Greedy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/DFS_BFS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS_Shin/05_Greedy/Huffman_Coding.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/DFS_BFS/Best_Grass_6186.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="KnapSack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Island_4963" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,11 +76,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS_Shin/06_Back_Tracking" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/DFS_BFS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\kis03\Desktop\알고리즘\CS_Shin\06_Back_Tracking\KnapSack.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/DFS_BFS/Island_4963.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Meeting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Max_mul_2670 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/Greedy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/Dynamic_Programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Greedy/Meeting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Dynamic_Programming/Max_mul_2670.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Subset_Sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Max_mul_2670" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/Back_Tracking" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/Dynamic_Programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Back_Tracking/Subset_Sum.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\kis03\Desktop\알고리즘\practice\Dynamic_Programming\Max_mul_2670.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zigzag" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS_Shin/04_Dynamic_Programming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CS_Shin/04_Dynamic_Programming/zigzag.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.zigzag" />
-        <item itemvalue="Python.Huffman_Coding" />
-        <item itemvalue="Python.Meeting" />
-        <item itemvalue="Python.KnapSack" />
-        <item itemvalue="Python.Subset_Sum" />
+        <item itemvalue="Python.Max_mul_2670 (1)" />
+        <item itemvalue="Python.Max_mul_2670" />
+        <item itemvalue="Python.Island_4963" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.Best_Grass_6186" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +314,42 @@
       <option name="project" value="LOCAL" />
       <updated>1600607753898</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Backtracking">
+      <created>1600693989695</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1600693989696</updated>
+    </task>
+    <task id="LOCAL-00022" summary="DFS_BFS">
+      <created>1601045540624</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1601045540624</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Best Grass">
+      <created>1601215317984</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1601215317984</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Meeting">
+      <created>1601215331763</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1601215331763</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Best Grass">
+      <created>1601215370933</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1601215370933</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -334,9 +367,17 @@
     <MESSAGE value="Divide Conquer prac" />
     <MESSAGE value="Greedy" />
     <MESSAGE value="Greedy practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Greedy practice" />
+    <MESSAGE value="Backtracking" />
+    <MESSAGE value="DFS_BFS" />
+    <MESSAGE value="Meeting" />
+    <MESSAGE value="Best Grass" />
+    <option name="LAST_COMMIT_MESSAGE" value="Best Grass" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="436" y="190" key="#Notifications" timestamp="1601187882061">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="436" y="190" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1601187882061" />
     <state x="499" y="161" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599919262976">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -349,54 +390,58 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="480" y="4" key="#trapping_rain/0.0.1536.824@0.0.1536.824" timestamp="1595668273189" />
-    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1600607752620">
+    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1601215369762">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600607752620" />
-    <state width="1515" height="261" key="GridCell.Tab.0.bottom" timestamp="1600623676362">
+    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1601215369762" />
+    <state width="742" height="163" key="GridCell.Tab.0.bottom" timestamp="1601301192906">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600623676362" />
-    <state width="1515" height="261" key="GridCell.Tab.0.center" timestamp="1600623676362">
+    <state width="742" height="163" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601301192906" />
+    <state width="742" height="163" key="GridCell.Tab.0.center" timestamp="1601301192906">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600623676362" />
-    <state width="1515" height="261" key="GridCell.Tab.0.left" timestamp="1600623676362">
+    <state width="742" height="163" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601301192906" />
+    <state width="742" height="163" key="GridCell.Tab.0.left" timestamp="1601301192905">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600623676362" />
-    <state width="1515" height="261" key="GridCell.Tab.0.right" timestamp="1600623676362">
+    <state width="742" height="163" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601301192905" />
+    <state width="742" height="163" key="GridCell.Tab.0.right" timestamp="1601301192906">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600623676362" />
-    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1600623676362">
+    <state width="742" height="163" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601301192906" />
+    <state width="1511" height="243" key="GridCell.Tab.1.bottom" timestamp="1601275950684">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600623676362" />
-    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1600623676362">
+    <state width="1511" height="243" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601275950684" />
+    <state width="1511" height="243" key="GridCell.Tab.1.center" timestamp="1601275950684">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600623676362" />
-    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1600623676362">
+    <state width="1511" height="243" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1601275950684" />
+    <state width="1511" height="243" key="GridCell.Tab.1.left" timestamp="1601275950683">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600623676362" />
-    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1600623676362">
+    <state width="1511" height="243" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1601275950683" />
+    <state width="1511" height="243" key="GridCell.Tab.1.right" timestamp="1601275950684">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600623676362" />
-    <state x="559" y="38" key="SettingsEditor" timestamp="1598870559899">
+    <state width="1511" height="243" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1601275950684" />
+    <state x="178" y="0" width="1139" height="824" key="SettingsEditor" timestamp="1601209198305">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="559" y="38" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1598870559899" />
+    <state x="178" y="0" width="1139" height="824" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601209198305" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1596783937799">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1596783937799" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600608047252">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601215373149">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600608047252" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601215373149" />
+    <state x="223" y="98" width="1090" height="642" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1601264698543">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="98" width="1090" height="642" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1601264698543" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1600530464293">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
