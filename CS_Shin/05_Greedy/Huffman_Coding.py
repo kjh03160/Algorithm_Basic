@@ -9,7 +9,8 @@ def Huffman(text_dict):
             a = heapq.heappop(H)
             b = heapq.heappop(H)
             heapq.heappush(H, ((a[0] + b[0]), (a[1], b[1])))
-
+    a = heapq.heappop(H)
+    heapq.heappush(H, a[1])
     print(H)
 
 text = {'a' : 43, 'b' : 13, 'c' : 12, 'd' : 16, 'e' : 9, 'f' : 7}
