@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="BackTracking">
-      <change afterPath="$PROJECT_DIR$/practice/Brute_Force/Sublist_max.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Divide_Conquer/Power.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Coin_2293.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Leave_15486.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Greedy/Select_stops.py" afterDir="false" />
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Plum_2240.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Wine_2156.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS_Shin/05_Greedy/Huffman_Coding.py" beforeDir="false" afterPath="$PROJECT_DIR$/CS_Shin/05_Greedy/Huffman_Coding.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +42,8 @@
       <recent name="C:\Users\kis03\Desktop\알고리즘\Sorting" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="Coin_2293" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Plum_2240">
+    <configuration name="Plum_2240" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,28 +55,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Dynamic_Programming/Coin_2293.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Leave_15486" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="알고리즘" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/Dynamic_Programming" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Dynamic_Programming/Leave_15486.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Dynamic_Programming/Plum_2240.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="change_14916" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Wine_2156" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CS_Shin/04_Dynamic_Programming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/Dynamic_Programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\kis03\Desktop\알고리즘\practice\Dynamic_Programming\change_14916.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Dynamic_Programming/Wine_2156.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Plum_2240" />
+        <item itemvalue="Python.Wine_2156" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.Power" />
         <item itemvalue="Python.Sublist_max" />
-        <item itemvalue="Python.Leave_15486" />
-        <item itemvalue="Python.Coin_2293" />
       </list>
     </recent_temporary>
   </component>
@@ -391,7 +366,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601381255893</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Huffman_Coding.py">
+      <created>1601906037128</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1601906037128</updated>
+    </task>
+    <task id="LOCAL-00030" summary="prac">
+      <created>1601906054849</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1601906054849</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -416,7 +405,9 @@
     <MESSAGE value="Island_4963.py" />
     <MESSAGE value="BackTracking" />
     <MESSAGE value="DP" />
-    <option name="LAST_COMMIT_MESSAGE" value="DP" />
+    <MESSAGE value="Huffman_Coding.py" />
+    <MESSAGE value="prac" />
+    <option name="LAST_COMMIT_MESSAGE" value="prac" />
   </component>
   <component name="WindowStateProjectService">
     <state x="436" y="190" key="#Notifications" timestamp="1601187882061">
@@ -435,26 +426,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="480" y="4" key="#trapping_rain/0.0.1536.824@0.0.1536.824" timestamp="1595668273189" />
-    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1601381254716">
+    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1601906053738">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1601381254716" />
-    <state width="742" height="214" key="GridCell.Tab.0.bottom" timestamp="1601905880191">
+    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1601906053738" />
+    <state width="1511" height="211" key="GridCell.Tab.0.bottom" timestamp="1602075560023">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="742" height="214" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601905880191" />
-    <state width="742" height="214" key="GridCell.Tab.0.center" timestamp="1601905880191">
+    <state width="1511" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602075560023" />
+    <state width="1511" height="211" key="GridCell.Tab.0.center" timestamp="1602075560023">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="742" height="214" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601905880191" />
-    <state width="742" height="214" key="GridCell.Tab.0.left" timestamp="1601905880191">
+    <state width="1511" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602075560023" />
+    <state width="1511" height="211" key="GridCell.Tab.0.left" timestamp="1602075560023">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="742" height="214" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601905880191" />
-    <state width="742" height="214" key="GridCell.Tab.0.right" timestamp="1601905880191">
+    <state width="1511" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602075560023" />
+    <state width="1511" height="211" key="GridCell.Tab.0.right" timestamp="1602075560023">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="742" height="214" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601905880191" />
+    <state width="1511" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602075560023" />
     <state width="1511" height="243" key="GridCell.Tab.1.bottom" timestamp="1601275950684">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -479,10 +470,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1596783937799" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601381259596">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601906058548">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601381259596" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601906058548" />
     <state x="223" y="98" width="1090" height="642" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1601264698543">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
