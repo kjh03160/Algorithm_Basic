@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/Sort/counting_sort_10989.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Sort/sort_2751.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Sort/sort_inside_1472.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Sort/statistic_2108.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
       <recent name="C:\Users\kis03\Desktop\알고리즘\Sorting" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sort_2751">
+  <component name="RunManager" selected="Python.sort_inside_1472">
     <configuration name="666_1436" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -85,48 +85,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Creator_2231" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="알고리즘" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/Brute_Force" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Brute_Force/Creator_2231.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Rank_7568" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="알고리즘" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/Brute_Force" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Brute_Force/Rank_7568.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="sort_2751" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,13 +106,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sort_inside_1472" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/Sort" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Sort/sort_inside_1472.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="statistic_2108" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/Sort" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Sort/statistic_2108.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sort_inside_1472" />
+        <item itemvalue="Python.statistic_2108" />
         <item itemvalue="Python.sort_2751" />
         <item itemvalue="Python.666_1436" />
         <item itemvalue="Python.Chess_1018" />
-        <item itemvalue="Python.Rank_7568" />
-        <item itemvalue="Python.Creator_2231" />
       </list>
     </recent_temporary>
   </component>
@@ -401,7 +401,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603974543042</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="sorting">
+      <created>1603980193185</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1603980193185</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -429,7 +436,8 @@
     <MESSAGE value="prac" />
     <MESSAGE value="DP prac" />
     <MESSAGE value="Brute Force" />
-    <option name="LAST_COMMIT_MESSAGE" value="Brute Force" />
+    <MESSAGE value="sorting" />
+    <option name="LAST_COMMIT_MESSAGE" value="sorting" />
   </component>
   <component name="WindowStateProjectService">
     <state x="436" y="190" key="#Notifications" timestamp="1601187882061">
@@ -448,26 +456,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="480" y="4" key="#trapping_rain/0.0.1536.824@0.0.1536.824" timestamp="1595668273189" />
-    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1603974541847">
+    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1603980192209">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1603974541847" />
-    <state width="1511" height="210" key="GridCell.Tab.0.bottom" timestamp="1603979840509">
+    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1603980192209" />
+    <state width="742" height="212" key="GridCell.Tab.0.bottom" timestamp="1604068101635">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1511" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603979840509" />
-    <state width="1511" height="210" key="GridCell.Tab.0.center" timestamp="1603979840509">
+    <state width="742" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604068101635" />
+    <state width="742" height="212" key="GridCell.Tab.0.center" timestamp="1604068101634">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1511" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603979840509" />
-    <state width="1511" height="210" key="GridCell.Tab.0.left" timestamp="1603979840508">
+    <state width="742" height="212" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604068101634" />
+    <state width="742" height="212" key="GridCell.Tab.0.left" timestamp="1604068101634">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1511" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603979840508" />
-    <state width="1511" height="210" key="GridCell.Tab.0.right" timestamp="1603979840509">
+    <state width="742" height="212" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604068101634" />
+    <state width="742" height="212" key="GridCell.Tab.0.right" timestamp="1604068101635">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1511" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603979840509" />
+    <state width="742" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604068101635" />
     <state width="1511" height="243" key="GridCell.Tab.1.bottom" timestamp="1601275950684">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -492,18 +500,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1596783937799" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603974544478">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603980194560">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603974544478" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603980194560" />
     <state x="223" y="98" width="1090" height="642" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1601264698543">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="98" width="1090" height="642" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1601264698543" />
-    <state x="430" y="145" width="840" height="678" key="search.everywhere.popup" timestamp="1603892249752">
+    <state x="430" y="145" width="840" height="678" key="search.everywhere.popup" timestamp="1604066152432">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="430" y="145" width="840" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603892249752" />
+    <state x="430" y="145" width="840" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1604066152432" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
