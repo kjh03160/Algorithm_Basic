@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Knapsack_12865.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Greedy/ATM_11399.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Greedy/Lost_bracket_1541.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +42,28 @@
       <recent name="C:\Users\kis03\Desktop\알고리즘\Sorting" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Knapsack_12865">
+  <component name="RunManager" selected="Python.Lost_bracket_1541">
+    <configuration name="ATM_11399" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/Greedy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Greedy/ATM_11399.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Knapsack_12865" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -63,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Operator_14888" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lost_bracket_1541" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,32 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/DFS_BFS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/Greedy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/DFS_BFS/Operator_14888.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Sudoku_2580" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="알고리즘" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/Back_Tracking" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Back_Tracking/Sudoku_2580.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Greedy/Lost_bracket_1541.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lost_bracket_1541" />
+        <item itemvalue="Python.ATM_11399" />
         <item itemvalue="Python.Knapsack_12865" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.Team_14889" />
-        <item itemvalue="Python.Operator_14888" />
-        <item itemvalue="Python.Sudoku_2580" />
       </list>
     </recent_temporary>
   </component>
@@ -484,11 +485,17 @@
       <option name="project" value="LOCAL" />
       <updated>1605103554722</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="DP Knapsack_12865.py">
+      <created>1605274101329</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1605274101329</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="D &amp; C max_sum" />
     <MESSAGE value="Dynamic Programming 1" />
     <MESSAGE value="Dynamic Programming LCS" />
     <MESSAGE value="Dynamic Programming" />
@@ -513,7 +520,8 @@
     <MESSAGE value="Backtracking Sudoku" />
     <MESSAGE value="DFS Operator_14888.py" />
     <MESSAGE value="DFS Backtracking Team_14889.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="DFS Backtracking Team_14889.py" />
+    <MESSAGE value="DP Knapsack_12865.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="DP Knapsack_12865.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="436" y="190" key="#Notifications" timestamp="1601187882061">
@@ -524,26 +532,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="161" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1599919262976" />
-    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1605103553487">
+    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1605274100133">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605103553487" />
-    <state width="744" height="175" key="GridCell.Tab.0.bottom" timestamp="1605273957945">
+    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605274100133" />
+    <state width="744" height="159" key="GridCell.Tab.0.bottom" timestamp="1605451609640">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="744" height="175" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605273957945" />
-    <state width="744" height="175" key="GridCell.Tab.0.center" timestamp="1605273957945">
+    <state width="744" height="159" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605451609640" />
+    <state width="744" height="159" key="GridCell.Tab.0.center" timestamp="1605451609640">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="744" height="175" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605273957945" />
-    <state width="744" height="175" key="GridCell.Tab.0.left" timestamp="1605273957945">
+    <state width="744" height="159" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605451609640" />
+    <state width="744" height="159" key="GridCell.Tab.0.left" timestamp="1605451609639">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="744" height="175" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605273957945" />
-    <state width="744" height="175" key="GridCell.Tab.0.right" timestamp="1605273957945">
+    <state width="744" height="159" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605451609639" />
+    <state width="744" height="159" key="GridCell.Tab.0.right" timestamp="1605451609640">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="744" height="175" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605273957945" />
+    <state width="744" height="159" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605451609640" />
     <state width="1511" height="243" key="GridCell.Tab.1.bottom" timestamp="1601275950684">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -564,14 +572,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="178" y="0" width="1139" height="824" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601209198305" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1596783937799">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605274103512">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1596783937799" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605103555428">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605103555428" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605274103512" />
     <state x="223" y="98" width="1090" height="642" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1601264698543">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
