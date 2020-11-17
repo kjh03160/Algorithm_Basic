@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Greedy Lost_bracket_1541.py">
-      <change afterPath="$PROJECT_DIR$/practice/Divide_Conquer/Matrix_10830.py" afterDir="false" />
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/practice/Divide_Conquer/Fibonacci_2749.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +60,7 @@
       <recent name="C:\Users\kis03\Desktop\알고리즘\Sorting" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.Fibonacci_2749">
     <configuration name="ATM_11399" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -55,6 +74,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Greedy/ATM_11399.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Fibonacci_2749" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/Divide_Conquer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Divide_Conquer/Fibonacci_2749.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,27 +145,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Team_14889" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="알고리즘" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/Back_Tracking" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Back_Tracking/Team_14889.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Fibonacci_2749" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.Lost_bracket_1541" />
         <item itemvalue="Python.ATM_11399" />
         <item itemvalue="Python.Knapsack_12865" />
-        <item itemvalue="Python.Team_14889" />
       </list>
     </recent_temporary>
   </component>
@@ -505,8 +524,25 @@
       <option name="project" value="LOCAL" />
       <updated>1605496777027</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Divide Matrix_10830.py">
+      <created>1605623313697</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1605623313697</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -520,7 +556,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Dynamic Programming" />
     <MESSAGE value="Brute Force prac" />
     <MESSAGE value="Divide Conquer prac" />
     <MESSAGE value="Greedy" />
@@ -545,7 +580,8 @@
     <MESSAGE value="DP Knapsack_12865.py" />
     <MESSAGE value="Greedy ATM_11399.py" />
     <MESSAGE value="Greedy Lost_bracket_1541.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Greedy Lost_bracket_1541.py" />
+    <MESSAGE value="Divide Matrix_10830.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Divide Matrix_10830.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="436" y="190" key="#Notifications" timestamp="1601187882061">
@@ -556,30 +592,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="161" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1599919262976" />
-    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1605623180490">
+    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1605623312748">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605623180490" />
+    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605623312748" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1605623203518">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1605623203518" />
-    <state width="744" height="159" key="GridCell.Tab.0.bottom" timestamp="1605538080210">
+    <state width="1511" height="160" key="GridCell.Tab.0.bottom" timestamp="1605627241150">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="744" height="159" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605538080210" />
-    <state width="744" height="159" key="GridCell.Tab.0.center" timestamp="1605538080210">
+    <state width="1511" height="160" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605627241150" />
+    <state width="1511" height="160" key="GridCell.Tab.0.center" timestamp="1605627241150">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="744" height="159" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605538080210" />
-    <state width="744" height="159" key="GridCell.Tab.0.left" timestamp="1605538080210">
+    <state width="1511" height="160" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605627241150" />
+    <state width="1511" height="160" key="GridCell.Tab.0.left" timestamp="1605627241150">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="744" height="159" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605538080210" />
-    <state width="744" height="159" key="GridCell.Tab.0.right" timestamp="1605538080210">
+    <state width="1511" height="160" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605627241150" />
+    <state width="1511" height="160" key="GridCell.Tab.0.right" timestamp="1605627241150">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="744" height="159" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605538080210" />
+    <state width="1511" height="160" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605627241150" />
     <state width="1511" height="243" key="GridCell.Tab.1.bottom" timestamp="1601275950684">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -604,10 +640,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="612" y="306" key="VCS.ChangelistChooser/0.0.1536.824@0.0.1536.824" timestamp="1605623154717" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605536605471">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605623316577">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605536605471" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605623316577" />
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605623094183">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
