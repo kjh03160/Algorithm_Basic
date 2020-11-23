@@ -20,8 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/Numbering_2667.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/Virus_2606.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Tile3_14852.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -63,28 +61,7 @@
       <recent name="C:\Users\kis03\Desktop\알고리즘\practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Numbering_2667">
-    <configuration name="Fibonacci_2749" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="알고리즘" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/Divide_Conquer" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Divide_Conquer/Fibonacci_2749.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Tile3_14852">
     <configuration name="Histogram_6549" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,6 +96,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/DFS_BFS/Numbering_2667.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tile3_14852" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/Dynamic_Programming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Dynamic_Programming/Tile3_14852.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Tile3_14852" />
         <item itemvalue="Python.Numbering_2667" />
         <item itemvalue="Python.Virus_2606" />
         <item itemvalue="Python.Histogram_6549" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.Fibonacci_2749" />
       </list>
     </recent_temporary>
   </component>
@@ -190,13 +188,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Divide Conquer prac, K closest yet">
-      <created>1596632334490</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1596632334490</updated>
     </task>
     <task id="LOCAL-00004" summary="K closest">
       <created>1596719926594</created>
@@ -534,7 +525,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605701059773</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="dfs Numbering_2667.py, Virus_2606.py">
+      <created>1606051132824</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1606051132825</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -560,7 +558,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Greedy" />
     <MESSAGE value="Greedy practice" />
     <MESSAGE value="Backtracking" />
     <MESSAGE value="DFS_BFS" />
@@ -585,7 +582,8 @@
     <MESSAGE value="Divide Matrix_10830.py" />
     <MESSAGE value="Divide Fibonacci_2749.py" />
     <MESSAGE value="DP, Stack School_programmers.py, Histogram_6549.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="DP, Stack School_programmers.py, Histogram_6549.py" />
+    <MESSAGE value="dfs Numbering_2667.py, Virus_2606.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="dfs Numbering_2667.py, Virus_2606.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="436" y="190" key="#Notifications" timestamp="1601187882061">
@@ -596,30 +594,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="161" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1599919262976" />
-    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1605701058715">
+    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1606051131540">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605701058715" />
+    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606051131540" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1605701029327">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1605701029327" />
-    <state width="1511" height="162" key="GridCell.Tab.0.bottom" timestamp="1605930564736">
+    <state width="744" height="160" key="GridCell.Tab.0.bottom" timestamp="1606057240026">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1511" height="162" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605930564736" />
-    <state width="1511" height="162" key="GridCell.Tab.0.center" timestamp="1605930564736">
+    <state width="744" height="160" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606057240026" />
+    <state width="744" height="160" key="GridCell.Tab.0.center" timestamp="1606057240025">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1511" height="162" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605930564736" />
-    <state width="1511" height="162" key="GridCell.Tab.0.left" timestamp="1605930564736">
+    <state width="744" height="160" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606057240025" />
+    <state width="744" height="160" key="GridCell.Tab.0.left" timestamp="1606057240025">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1511" height="162" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605930564736" />
-    <state width="1511" height="162" key="GridCell.Tab.0.right" timestamp="1605930564736">
+    <state width="744" height="160" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606057240025" />
+    <state width="744" height="160" key="GridCell.Tab.0.right" timestamp="1606057240025">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1511" height="162" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605930564736" />
+    <state width="744" height="160" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606057240025" />
     <state width="1511" height="243" key="GridCell.Tab.1.bottom" timestamp="1601275950684">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -644,10 +642,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="612" y="306" key="VCS.ChangelistChooser/0.0.1536.824@0.0.1536.824" timestamp="1605623154717" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605701066131">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606051135985">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605701066131" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606051135985" />
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605623094183">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
