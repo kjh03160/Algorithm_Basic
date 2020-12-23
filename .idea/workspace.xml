@@ -61,7 +61,7 @@
       <recent name="C:\Users\kis03\Desktop\알고리즘\practice\Dynamic_Programming" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.RGB_1149">
+  <component name="RunManager" selected="Python.test">
     <configuration name="Easy_Stair_10844" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.RGB_1149" />
         <item itemvalue="Python.Triangle_1932" />
         <item itemvalue="Python.Stair_2579" />
         <item itemvalue="Python.Easy_Stair_10844" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -188,13 +188,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Greedy">
-      <created>1598283299672</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1598283299672</updated>
     </task>
     <task id="LOCAL-00015" summary="Brute Force prac">
       <created>1598283333674</created>
@@ -532,7 +525,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608644723703</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="DP RGB_1149.py">
+      <created>1608646361710</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1608646361710</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -558,7 +558,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Brute Force" />
     <MESSAGE value="sorting" />
     <MESSAGE value="DP prac" />
     <MESSAGE value="DP Elec Wire" />
@@ -583,7 +582,8 @@
     <MESSAGE value="BFS Wall_2206.py, Shortest_1753.py" />
     <MESSAGE value="DP File_11066.py" />
     <MESSAGE value="DP Easy_Stair_10844.py, Stair_2579.py, Triangle_1932.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="DP Easy_Stair_10844.py, Stair_2579.py, Triangle_1932.py" />
+    <MESSAGE value="DP RGB_1149.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="DP RGB_1149.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="436" y="190" key="#Notifications" timestamp="1601187882061">
@@ -594,30 +594,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="161" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1607055582416" />
-    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1608644721705">
+    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1608646359455">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1608644721705" />
+    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1608646359455" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1605701029327">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1605701029327" />
-    <state width="742" height="272" key="GridCell.Tab.0.bottom" timestamp="1608646170142">
+    <state width="1511" height="132" key="GridCell.Tab.0.bottom" timestamp="1608648816231">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="742" height="272" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608646170142" />
-    <state width="742" height="272" key="GridCell.Tab.0.center" timestamp="1608646170141">
+    <state width="1511" height="132" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608648816231" />
+    <state width="1511" height="132" key="GridCell.Tab.0.center" timestamp="1608648816231">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="742" height="272" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608646170141" />
-    <state width="742" height="272" key="GridCell.Tab.0.left" timestamp="1608646170140">
+    <state width="1511" height="132" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608648816231" />
+    <state width="1511" height="132" key="GridCell.Tab.0.left" timestamp="1608648816231">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="742" height="272" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608646170140" />
-    <state width="742" height="272" key="GridCell.Tab.0.right" timestamp="1608646170142">
+    <state width="1511" height="132" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608648816231" />
+    <state width="1511" height="132" key="GridCell.Tab.0.right" timestamp="1608648816231">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="742" height="272" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608646170142" />
+    <state width="1511" height="132" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608648816231" />
     <state width="1511" height="243" key="GridCell.Tab.1.bottom" timestamp="1606835392852">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -642,10 +642,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="612" y="306" key="VCS.ChangelistChooser/0.0.1536.824@0.0.1536.824" timestamp="1605623154717" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1608644726451">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1608646370493">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608644726451" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608646370493" />
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605623094183">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
