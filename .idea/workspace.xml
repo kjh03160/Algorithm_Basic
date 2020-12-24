@@ -20,6 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Matrix_11049.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/MaxSub_11722.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -61,8 +63,8 @@
       <recent name="C:\Users\kis03\Desktop\알고리즘\practice\Dynamic_Programming" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="Easy_Stair_10844" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Matrix_11049">
+    <configuration name="Matrix_11049" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +76,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Dynamic_Programming/Easy_Stair_10844.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Dynamic_Programming/Matrix_11049.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MaxSub_11722" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/Dynamic_Programming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Dynamic_Programming/MaxSub_11722.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,27 +119,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Dynamic_Programming/RGB_1149.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Stair_2579" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="알고리즘" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/Dynamic_Programming" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Dynamic_Programming/Stair_2579.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Matrix_11049" />
+        <item itemvalue="Python.MaxSub_11722" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.RGB_1149" />
         <item itemvalue="Python.Triangle_1932" />
-        <item itemvalue="Python.Stair_2579" />
-        <item itemvalue="Python.Easy_Stair_10844" />
       </list>
     </recent_temporary>
   </component>
@@ -188,13 +190,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Brute Force prac">
-      <created>1598283333674</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1598283333674</updated>
     </task>
     <task id="LOCAL-00016" summary="DP prac">
       <created>1598283352259</created>
@@ -532,7 +527,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608646361710</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Codeit Invest.py">
+      <created>1608724519215</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1608724519215</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -558,7 +560,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="sorting" />
     <MESSAGE value="DP prac" />
     <MESSAGE value="DP Elec Wire" />
     <MESSAGE value="우아한 테크코스" />
@@ -583,7 +584,8 @@
     <MESSAGE value="DP File_11066.py" />
     <MESSAGE value="DP Easy_Stair_10844.py, Stair_2579.py, Triangle_1932.py" />
     <MESSAGE value="DP RGB_1149.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="DP RGB_1149.py" />
+    <MESSAGE value="Codeit Invest.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codeit Invest.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="436" y="190" key="#Notifications" timestamp="1601187882061">
@@ -594,30 +596,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="161" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1607055582416" />
-    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1608646359455">
+    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1608724517669">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1608646359455" />
+    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1608724517669" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1605701029327">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1605701029327" />
-    <state width="1511" height="132" key="GridCell.Tab.0.bottom" timestamp="1608648816231">
+    <state width="742" height="133" key="GridCell.Tab.0.bottom" timestamp="1608820962602">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1511" height="132" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608648816231" />
-    <state width="1511" height="132" key="GridCell.Tab.0.center" timestamp="1608648816231">
+    <state width="742" height="133" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608820962602" />
+    <state width="742" height="133" key="GridCell.Tab.0.center" timestamp="1608820962602">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1511" height="132" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608648816231" />
-    <state width="1511" height="132" key="GridCell.Tab.0.left" timestamp="1608648816231">
+    <state width="742" height="133" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608820962602" />
+    <state width="742" height="133" key="GridCell.Tab.0.left" timestamp="1608820962602">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1511" height="132" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608648816231" />
-    <state width="1511" height="132" key="GridCell.Tab.0.right" timestamp="1608648816231">
+    <state width="742" height="133" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608820962602" />
+    <state width="742" height="133" key="GridCell.Tab.0.right" timestamp="1608820962602">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1511" height="132" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608648816231" />
+    <state width="742" height="133" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608820962602" />
     <state width="1511" height="243" key="GridCell.Tab.1.bottom" timestamp="1606835392852">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
