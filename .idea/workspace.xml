@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Sticker_9465.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/ETC/Erastotenes_4938.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/ConnectedEle_11724.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -51,7 +50,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindowFavorites.ShowToolbar" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Sorting" />
-    <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -63,7 +62,28 @@
       <recent name="C:\Users\kis03\Desktop\알고리즘\practice\Dynamic_Programming" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Erastotenes_4938">
+  <component name="RunManager" selected="Python.ConnectedEle_11724">
+    <configuration name="ConnectedEle_11724" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/DFS_BFS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/DFS_BFS/ConnectedEle_11724.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Erastotenes_4938" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,27 +118,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Dynamic_Programming/Matrix_11049.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="MaxSub_11722" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="알고리즘" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/Dynamic_Programming" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Dynamic_Programming/MaxSub_11722.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Erastotenes_4938" />
-        <item itemvalue="Python.Sticker_9465" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.Sticker_9465" />
         <item itemvalue="Python.Matrix_11049" />
-        <item itemvalue="Python.MaxSub_11722" />
+        <item itemvalue="Python.Erastotenes_4938" />
+        <item itemvalue="Python.ConnectedEle_11724" />
       </list>
     </recent_temporary>
   </component>
@@ -190,13 +189,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00017" summary="DP prac">
-      <created>1598416812126</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1598416812126</updated>
     </task>
     <task id="LOCAL-00018" summary="Divide Conquer prac">
       <created>1598416843284</created>
@@ -534,7 +526,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608821119516</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="DP Sticker_9465.py, ETC Erastotenes_4938.py">
+      <created>1609596099475</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1609596099476</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -560,7 +559,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="DP Elec Wire" />
     <MESSAGE value="우아한 테크코스" />
     <MESSAGE value="Backtracking Sudoku" />
     <MESSAGE value="DFS Operator_14888.py" />
@@ -585,7 +583,8 @@
     <MESSAGE value="DP RGB_1149.py" />
     <MESSAGE value="Codeit Invest.py" />
     <MESSAGE value="DP Matrix_11049.py, MaxSub_11722.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="DP Matrix_11049.py, MaxSub_11722.py" />
+    <MESSAGE value="DP Sticker_9465.py, ETC Erastotenes_4938.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="DP Sticker_9465.py, ETC Erastotenes_4938.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="436" y="190" key="#Notifications" timestamp="1601187882061">
@@ -596,38 +595,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="161" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1607055582416" />
-    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1608821118446">
+    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1609596098292">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1608821118446" />
+    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1609596098292" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1605701029327">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1605701029327" />
-    <state width="742" height="132" key="GridCell.Tab.0.bottom" timestamp="1609595867830">
+    <state width="742" height="132" key="GridCell.Tab.0.bottom" timestamp="1609599096539">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1511" height="131" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1609304290068" />
     <state width="1511" height="131" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1609298188432" />
-    <state width="742" height="132" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609595867830" />
-    <state width="742" height="132" key="GridCell.Tab.0.center" timestamp="1609595867829">
+    <state width="742" height="132" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609599096539" />
+    <state width="742" height="132" key="GridCell.Tab.0.center" timestamp="1609599096539">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1511" height="131" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1609304290067" />
     <state width="1511" height="131" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1609298188431" />
-    <state width="742" height="132" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609595867829" />
-    <state width="742" height="132" key="GridCell.Tab.0.left" timestamp="1609595867829">
+    <state width="742" height="132" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609599096539" />
+    <state width="742" height="132" key="GridCell.Tab.0.left" timestamp="1609599096539">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1511" height="131" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1609304290067" />
     <state width="1511" height="131" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1609298188431" />
-    <state width="742" height="132" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609595867829" />
-    <state width="742" height="132" key="GridCell.Tab.0.right" timestamp="1609595867830">
+    <state width="742" height="132" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609599096539" />
+    <state width="742" height="132" key="GridCell.Tab.0.right" timestamp="1609599096539">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1511" height="131" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1609304290068" />
     <state width="1511" height="131" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1609298188431" />
-    <state width="742" height="132" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609595867830" />
+    <state width="742" height="132" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609599096539" />
     <state width="1511" height="243" key="GridCell.Tab.1.bottom" timestamp="1606835392852">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -644,18 +643,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1511" height="243" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1606835392852" />
-    <state x="178" y="0" width="1139" height="824" key="SettingsEditor" timestamp="1601209198305">
+    <state x="178" y="0" width="1139" height="824" key="SettingsEditor" timestamp="1609653289579">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="178" y="0" width="1139" height="824" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601209198305" />
+    <state x="178" y="0" width="1139" height="824" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1609653289579" />
     <state x="612" y="306" key="VCS.ChangelistChooser" timestamp="1605623154717">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="612" y="306" key="VCS.ChangelistChooser/0.0.1536.824@0.0.1536.824" timestamp="1605623154717" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1608821122301">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1609596102095">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608821122301" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1609596102095" />
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605623094183">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -668,10 +667,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="98" width="1090" height="642" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1601264698543" />
-    <state x="430" y="145" width="840" height="678" key="search.everywhere.popup" timestamp="1609592962457">
+    <state x="430" y="145" width="840" height="678" key="search.everywhere.popup" timestamp="1609599095716">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="430" y="145" width="840" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1609592962457" />
+    <state x="430" y="145" width="840" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1609599095716" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
