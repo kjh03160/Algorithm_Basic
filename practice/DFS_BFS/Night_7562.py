@@ -2,32 +2,27 @@
 
 from collections import deque
 def answer(now_r, now_c, dest_r, dest_c):
-    global G, DIRECTION, ans, visited
-
-    visited[now_r][now_c] = True
+    global G, DIRECTION, visited
 
     q = deque()
-    for i in DIRECTION:
-        q.append((now_r, now_c, i[0], i[1], 0))
-
+    q.append((now_r, now_c, 0))
+    visited[now_r][now_c] = True
     while q:
-        nrow, ncol, drow, dcol, a = q.popleft()
-        if nrow == dest_r and ncol == dest_c:
-            return a
+        row, col, count = q.popleft()
+        if row == dest_r and col == dest_c:
+            return count
+        for r, c in DIRECTION:
+            drow = r + row
+            dcol = c + col
 
-        row, col = nrow + drow, ncol + dcol
+            if drow >= len(G) or dcol >= len(G) or drow < 0 or dcol < 0:
+                continue
+            if not visited[drow][dcol]:
+                visited[drow][dcol] = True
+                q.append((drow, dcol, count + 1))
 
-        if row >= len(G) or col >= len(G) or row < 0 or col < 0:
-            continue
-
-        if not visited[row][col]:
-            a += 1
-            visited[row][col] = True
-            for i in DIRECTION:
-                q.append((row, col, i[0], i[1], a))
 
 import sys
-sys.setrecursionlimit(10 ** 9)
 input = sys.stdin.readline
 DIRECTION = [(-2, -1), (-2, 1), (-1, -2), (-1, 2), (1, -2), (1, 2), (2, -1), (2, 1)]
 
