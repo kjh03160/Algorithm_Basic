@@ -19,11 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="DFS Night_7562.py">
-      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/Path_11403.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Best_Village_1949.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Greedy/Tree_traversal_1991.py" afterDir="false" />
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="DFS/BFS Best_Village_1949.py, Path_&#10;, ETC Tree_">
+      <change afterPath="$PROJECT_DIR$/practice/Back_Tracking/Max_diff_10819.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/Safe_location_2468.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/ETC/Max_Heap_11279.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/Divide_Conquer/Paper2_1780.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Divide_Conquer/Paper2_1780.py" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +61,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindowFavorites.ShowToolbar" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -72,28 +73,7 @@
       <recent name="C:\Users\kis03\Desktop\알고리즘\Sorting" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Best_Village_1949">
-    <configuration name="4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="알고리즘" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code_masters" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code_masters/4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Safe_location_2468">
     <configuration name="Best_Village_1949" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,7 +95,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Path_11403" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Max_diff_10819" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/Back_Tracking" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Back_Tracking/Max_diff_10819.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Safe_location_2468" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,7 +128,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/DFS_BFS/Path_11403.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/DFS_BFS/Safe_location_2468.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Safe_location_2468" />
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.Max_diff_10819" />
         <item itemvalue="Python.Best_Village_1949" />
         <item itemvalue="Python.Tree_traversal_1991" />
-        <item itemvalue="Python.Path_11403" />
-        <item itemvalue="Python.test (1)" />
-        <item itemvalue="Python.4" />
       </list>
     </recent_temporary>
   </component>
@@ -199,13 +200,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Backtracking">
-      <created>1600693989695</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1600693989696</updated>
     </task>
     <task id="LOCAL-00022" summary="DFS_BFS">
       <created>1601045540624</created>
@@ -543,7 +537,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610805150825</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="DFS/BFS Best_Village_1949.py, Path_&#10;, ETC Tree_">
+      <created>1610887505395</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1610887505396</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -569,7 +570,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="DFS Backtracking Team_14889.py" />
     <MESSAGE value="DP Knapsack_12865.py" />
     <MESSAGE value="Greedy ATM_11399.py" />
     <MESSAGE value="Greedy Lost_bracket_1541.py" />
@@ -594,7 +594,8 @@
     <MESSAGE value="DFS ConnectedEle_11724.py" />
     <MESSAGE value="DFS Night_7562.py.py" />
     <MESSAGE value="DFS Night_7562.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="DFS Night_7562.py" />
+    <MESSAGE value="DFS/BFS Best_Village_1949.py, Path_&#10;, ETC Tree_" />
+    <option name="LAST_COMMIT_MESSAGE" value="DFS/BFS Best_Village_1949.py, Path_&#10;, ETC Tree_" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
