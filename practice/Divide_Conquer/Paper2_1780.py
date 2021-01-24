@@ -47,8 +47,8 @@ def answer(L, result):
     for matrix in nine_matrix:
         answer(matrix, result)
 
-
-def is_only(L):
+from typing import List
+def is_only(L: List) -> bool:
     num = L[0][0]
     for i in range(len(L)):
         for j in range(len(L[i])):
