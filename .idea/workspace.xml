@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Divide Conquer Print_Start_2447.py">
-      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/Brotherhood_2644.py" afterDir="false" />
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="BFS Brotherhood_2644.py">
       <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/Jump_1890.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/Parent_Node_11725.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -71,7 +71,7 @@
       <recent name="C:\Users\kis03\Desktop\알고리즘\Sorting" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Jump_1890">
+  <component name="RunManager" selected="Python.Parent_Node_11725">
     <configuration name="Goldbach_9020" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,6 +114,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Parent_Node_11725" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/DFS_BFS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/DFS_BFS/Parent_Node_11725.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Print_Start_2447" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,27 +148,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Divide_Conquer/Print_Start_2447.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Safe_location_2468" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="알고리즘" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/DFS_BFS" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/DFS_BFS/Safe_location_2468.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Parent_Node_11725" />
         <item itemvalue="Python.Jump_1890" />
         <item itemvalue="Python.test (1)" />
         <item itemvalue="Python.Print_Start_2447" />
         <item itemvalue="Python.Goldbach_9020" />
-        <item itemvalue="Python.Safe_location_2468" />
       </list>
     </recent_temporary>
   </component>
@@ -198,13 +198,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Best Grass">
-      <created>1601215370933</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1601215370933</updated>
     </task>
     <task id="LOCAL-00026" summary="Island_4963.py">
       <created>1601301346863</created>
@@ -542,7 +535,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611668951593</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="BFS Brotherhood_2644.py">
+      <created>1611844189014</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1611844189015</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -568,7 +568,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Divide Matrix_10830.py" />
     <MESSAGE value="Divide Fibonacci_2749.py" />
     <MESSAGE value="DP, Stack School_programmers.py, Histogram_6549.py" />
     <MESSAGE value="dfs Numbering_2667.py, Virus_2606.py" />
@@ -593,7 +592,8 @@
     <MESSAGE value="Backtracking Max_diff_10819.py&#10;DFS Safe_location_2468.py&#10;ETC Max_Heap_11279.py&#10;DiviedConquer Paper2_1780.py" />
     <MESSAGE value="ETC, Divide and Conquer" />
     <MESSAGE value="Divide Conquer Print_Start_2447.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Divide Conquer Print_Start_2447.py" />
+    <MESSAGE value="BFS Brotherhood_2644.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="BFS Brotherhood_2644.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
