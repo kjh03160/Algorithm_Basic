@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="BFS Brotherhood_2644.py">
-      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/Jump_1890.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/Parent_Node_11725.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="BFS Parent_Node_11725.py, DP Jump_1890.py" />
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +101,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/DFS_BFS/Jump_1890.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Dynamic_Programming/Jump_1890.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,13 +194,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Island_4963.py">
-      <created>1601301346863</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1601301346863</updated>
     </task>
     <task id="LOCAL-00027" summary="BackTracking">
       <created>1601301362997</created>
@@ -542,7 +531,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611844189015</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="BFS Parent_Node_11725.py, DP Jump_1890.py">
+      <created>1611928262985</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1611928262986</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -568,7 +564,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Divide Fibonacci_2749.py" />
     <MESSAGE value="DP, Stack School_programmers.py, Histogram_6549.py" />
     <MESSAGE value="dfs Numbering_2667.py, Virus_2606.py" />
     <MESSAGE value="DP Tile3_14852.py" />
@@ -593,7 +588,8 @@
     <MESSAGE value="ETC, Divide and Conquer" />
     <MESSAGE value="Divide Conquer Print_Start_2447.py" />
     <MESSAGE value="BFS Brotherhood_2644.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="BFS Brotherhood_2644.py" />
+    <MESSAGE value="BFS Parent_Node_11725.py, DP Jump_1890.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="BFS Parent_Node_11725.py, DP Jump_1890.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
