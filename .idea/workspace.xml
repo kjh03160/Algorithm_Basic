@@ -19,12 +19,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="move file">
-      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/Robot_Vaccum_14503.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/Section_2583.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/TSP2_10971.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Pascal_11051.py" afterDir="false" />
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="DFS_BFS, DP prac">
+      <change afterPath="$PROJECT_DIR$/Kakao_2021/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kakao_2021/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kakao_2021/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kakao_2021/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Brute_Force/Remote_1107.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/Lab_14502.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/TSP_2098.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/FloidWashall_11404.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Make_One_1463.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/ETC/Joseph_1158.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/DFS_BFS/TSP2_10971.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/DFS_BFS/TSP2_10971.py" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,8 +81,8 @@
       <recent name="C:\Users\kis03\Desktop\알고리즘\practice\Dynamic_Programming" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.TSP2_10971">
-    <configuration name="Parent_Node_11725" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="FloidWashall_11404" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +90,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/DFS_BFS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/Dynamic_Programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/DFS_BFS/Parent_Node_11725.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Dynamic_Programming/FloidWashall_11404.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Robot_Vaccum_14503" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Joseph2_1168" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +111,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/DFS_BFS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/ETC" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/DFS_BFS/Robot_Vaccum_14503.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/ETC/Joseph2_1168.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Section_2583" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Joseph_1158" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/DFS_BFS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/ETC" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/DFS_BFS/Section_2583.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/ETC/Joseph_1158.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TSP2_10971" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Make_One_1463" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,11 +153,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/DFS_BFS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/Dynamic_Programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/DFS_BFS/TSP2_10971.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Dynamic_Programming/Make_One_1463.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.TSP2_10971" />
-        <item itemvalue="Python.test (1)" />
-        <item itemvalue="Python.Robot_Vaccum_14503" />
-        <item itemvalue="Python.Section_2583" />
-        <item itemvalue="Python.Parent_Node_11725" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.FloidWashall_11404" />
+        <item itemvalue="Python.Joseph2_1168" />
+        <item itemvalue="Python.Joseph_1158" />
+        <item itemvalue="Python.Make_One_1463" />
       </list>
     </recent_temporary>
   </component>
@@ -201,13 +208,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00028" summary="DP">
-      <created>1601381255893</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1601381255893</updated>
     </task>
     <task id="LOCAL-00029" summary="Huffman_Coding.py">
       <created>1601906037128</created>
@@ -545,7 +545,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611928883664</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="DFS_BFS, DP prac">
+      <created>1612011783613</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1612011783613</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -571,7 +578,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="dfs Numbering_2667.py, Virus_2606.py" />
     <MESSAGE value="DP Tile3_14852.py" />
     <MESSAGE value="DP App_7579.py Palindrome_10942.py" />
     <MESSAGE value="DFS Downhill_1520.py" />
@@ -596,7 +602,8 @@
     <MESSAGE value="BFS Brotherhood_2644.py" />
     <MESSAGE value="BFS Parent_Node_11725.py, DP Jump_1890.py" />
     <MESSAGE value="move file" />
-    <option name="LAST_COMMIT_MESSAGE" value="move file" />
+    <MESSAGE value="DFS_BFS, DP prac" />
+    <option name="LAST_COMMIT_MESSAGE" value="DFS_BFS, DP prac" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

@@ -1,4 +1,4 @@
-# https://www.acmicpc.net/problem/2098
+# https://www.acmicpc.net/problem/10971
 
 def dfs(index, finish, value):
     global G, result, visited
