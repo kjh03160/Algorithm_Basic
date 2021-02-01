@@ -19,25 +19,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="DFS_BFS, DP prac">
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="prac">
       <change afterPath="$PROJECT_DIR$/Kakao_2021/1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Kakao_2021/2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Kakao_2021/4.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Kakao_2021/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Brute_Force/Remote_1107.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/Lab_14502.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/TSP_2098.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/FloidWashall_11404.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Make_One_1463.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/ETC/Joseph_1158.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/DFS_BFS/TSP2_10971.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/DFS_BFS/TSP2_10971.py" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -208,13 +206,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Huffman_Coding.py">
-      <created>1601906037128</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1601906037128</updated>
     </task>
     <task id="LOCAL-00030" summary="prac">
       <created>1601906054849</created>
@@ -552,7 +543,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612011783613</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="prac">
+      <created>1612102978199</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1612102978199</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -578,7 +576,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="DP Tile3_14852.py" />
     <MESSAGE value="DP App_7579.py Palindrome_10942.py" />
     <MESSAGE value="DFS Downhill_1520.py" />
     <MESSAGE value="DFS Baechu_1012.py" />
@@ -603,7 +600,8 @@
     <MESSAGE value="BFS Parent_Node_11725.py, DP Jump_1890.py" />
     <MESSAGE value="move file" />
     <MESSAGE value="DFS_BFS, DP prac" />
-    <option name="LAST_COMMIT_MESSAGE" value="DFS_BFS, DP prac" />
+    <MESSAGE value="prac" />
+    <option name="LAST_COMMIT_MESSAGE" value="prac" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
