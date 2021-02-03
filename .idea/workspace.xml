@@ -19,11 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="prac">
-      <change afterPath="$PROJECT_DIR$/Kakao_2021/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kakao_2021/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kakao_2021/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kakao_2021/5.py" afterDir="false" />
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Kakao 2021 1, 2, 4, 5">
+      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/Pipe_17070.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Pipe_17070.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -206,13 +204,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00030" summary="prac">
-      <created>1601906054849</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1601906054849</updated>
     </task>
     <task id="LOCAL-00031" summary="DP prac">
       <created>1602075892137</created>
@@ -550,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612102978199</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="Kakao 2021 1, 2, 4, 5">
+      <created>1612187857552</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1612187857552</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -576,7 +574,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="DP App_7579.py Palindrome_10942.py" />
     <MESSAGE value="DFS Downhill_1520.py" />
     <MESSAGE value="DFS Baechu_1012.py" />
     <MESSAGE value="BFS Matrix_2178.py, Tomato_7576.py, Tomato2_7569.py" />
@@ -601,7 +598,8 @@
     <MESSAGE value="move file" />
     <MESSAGE value="DFS_BFS, DP prac" />
     <MESSAGE value="prac" />
-    <option name="LAST_COMMIT_MESSAGE" value="prac" />
+    <MESSAGE value="Kakao 2021 1, 2, 4, 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kakao 2021 1, 2, 4, 5" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
