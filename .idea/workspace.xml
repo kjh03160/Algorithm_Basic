@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Kakao 2021 1, 2, 4, 5">
-      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/Pipe_17070.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Pipe_17070.py" afterDir="false" />
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="DP Pipe_17070.py">
+      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/Castle_Defence_17135.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/Parenthesis_16637.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -141,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Make_One_1463" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test 복사본" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/Dynamic_Programming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/Dynamic_Programming/Make_One_1463.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test 복사본.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,10 +186,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.test 복사본" />
         <item itemvalue="Python.FloidWashall_11404" />
         <item itemvalue="Python.Joseph2_1168" />
         <item itemvalue="Python.Joseph_1158" />
-        <item itemvalue="Python.Make_One_1463" />
       </list>
     </recent_temporary>
   </component>
@@ -204,13 +204,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00031" summary="DP prac">
-      <created>1602075892137</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1602075892137</updated>
     </task>
     <task id="LOCAL-00032" summary="Brute Force">
       <created>1603895511249</created>
@@ -548,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612187857552</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="DP Pipe_17070.py">
+      <created>1612320087104</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1612320087105</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -574,7 +574,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="DFS Downhill_1520.py" />
     <MESSAGE value="DFS Baechu_1012.py" />
     <MESSAGE value="BFS Matrix_2178.py, Tomato_7576.py, Tomato2_7569.py" />
     <MESSAGE value="BFS Hide_1697.py" />
@@ -599,7 +598,8 @@
     <MESSAGE value="DFS_BFS, DP prac" />
     <MESSAGE value="prac" />
     <MESSAGE value="Kakao 2021 1, 2, 4, 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kakao 2021 1, 2, 4, 5" />
+    <MESSAGE value="DP Pipe_17070.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="DP Pipe_17070.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
