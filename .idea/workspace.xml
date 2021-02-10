@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="BFS Garry_Mendering_17471.py">
-      <change afterPath="$PROJECT_DIR$/practice/Brute_Force/Flower_14620.py" afterDir="false" />
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="BruteForce Flower_14620.py">
+      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/Bipartite_Graph_1707.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -204,13 +204,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00035" summary="sorting">
-      <created>1604068223998</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1604068223998</updated>
     </task>
     <task id="LOCAL-00036" summary="sorting">
       <created>1604153246686</created>
@@ -548,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612788944823</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="BruteForce Flower_14620.py">
+      <created>1612878184834</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1612878184835</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -574,7 +574,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="D&amp;C Tree_2805.py" />
     <MESSAGE value="BFS Wall_2206.py, Shortest_1753.py" />
     <MESSAGE value="DP File_11066.py" />
     <MESSAGE value="DP Easy_Stair_10844.py, Stair_2579.py, Triangle_1932.py" />
@@ -599,7 +598,8 @@
     <MESSAGE value="DFS/BFS Castle_Defence_17135.py, Parenthesis_16637.py" />
     <MESSAGE value="Backtracking Room_19621.py, DFS Color_Paper_17136.py, DP Room3_19622.py, PQ ABS_Heap_11286.py, Say_Medium_1655.py" />
     <MESSAGE value="BFS Garry_Mendering_17471.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="BFS Garry_Mendering_17471.py" />
+    <MESSAGE value="BruteForce Flower_14620.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="BruteForce Flower_14620.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
