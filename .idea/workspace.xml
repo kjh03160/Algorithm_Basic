@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="DFS/BFS Bipartite_Graph_1707.py, Crazy_Robot_1405.py">
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Brute_Force BaseBall_17281.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -203,13 +203,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00037" summary="sorting">
-      <created>1604154869247</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1604154869247</updated>
     </task>
     <task id="LOCAL-00038" summary="DP prac">
       <created>1604323950096</created>
@@ -547,7 +540,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612955017392</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="Brute_Force BaseBall_17281.py">
+      <created>1613123508813</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1613123508813</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -573,7 +573,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="DP File_11066.py" />
     <MESSAGE value="DP Easy_Stair_10844.py, Stair_2579.py, Triangle_1932.py" />
     <MESSAGE value="DP RGB_1149.py" />
     <MESSAGE value="Codeit Invest.py" />
@@ -598,7 +597,8 @@
     <MESSAGE value="BFS Garry_Mendering_17471.py" />
     <MESSAGE value="BruteForce Flower_14620.py" />
     <MESSAGE value="DFS/BFS Bipartite_Graph_1707.py, Crazy_Robot_1405.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="DFS/BFS Bipartite_Graph_1707.py, Crazy_Robot_1405.py" />
+    <MESSAGE value="Brute_Force BaseBall_17281.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Brute_Force BaseBall_17281.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
