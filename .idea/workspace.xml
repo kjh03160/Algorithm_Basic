@@ -19,7 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="ETC Making_Bridge_17472_Union_Find.py">
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="BFS Specific_Path_1504.py">
+      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/TimeMachine_11657.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -203,13 +204,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00040" summary="DP prac">
-      <created>1604414975239</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1604414975239</updated>
     </task>
     <task id="LOCAL-00041" summary="DP Elec Wire">
       <created>1604587861663</created>
@@ -547,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613533515601</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="BFS Specific_Path_1504.py">
+      <created>1613737100040</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1613737100040</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -573,7 +574,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Codeit Invest.py" />
     <MESSAGE value="DP Matrix_11049.py, MaxSub_11722.py" />
     <MESSAGE value="DP Sticker_9465.py, ETC Erastotenes_4938.py" />
     <MESSAGE value="DFS ConnectedEle_11724.py" />
@@ -598,7 +598,8 @@
     <MESSAGE value="Brute_Force BaseBall_17281.py" />
     <MESSAGE value="Brute_Force Rotate_Arr_17406.py" />
     <MESSAGE value="ETC Making_Bridge_17472_Union_Find.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="ETC Making_Bridge_17472_Union_Find.py" />
+    <MESSAGE value="BFS Specific_Path_1504.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="BFS Specific_Path_1504.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
