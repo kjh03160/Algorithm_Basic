@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="BFS Specific_Path_1504.py">
-      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/TimeMachine_11657.py" afterDir="false" />
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="DP TimeMachine_11657.py, Sum_Divide_2225.py">
+      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/A_to_B_16953.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Priority_Queue/Dual_PQ_7662.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -70,8 +71,8 @@
       <recent name="C:\Users\kis03\Desktop\알고리즘\Sorting" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/practice/Priority_Queue" />
       <recent name="$PROJECT_DIR$/practice/Dynamic_Programming" />
+      <recent name="$PROJECT_DIR$/practice/Priority_Queue" />
       <recent name="C:\Users\kis03\Desktop\알고리즘\practice\ETC" />
       <recent name="C:\Users\kis03\Desktop\알고리즘\practice" />
       <recent name="C:\Users\kis03\Desktop\알고리즘\practice\Dynamic_Programming" />
@@ -204,20 +205,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00041" summary="DP Elec Wire">
-      <created>1604587861663</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1604587861663</updated>
-    </task>
-    <task id="LOCAL-00042" summary="우아한 테크코스">
-      <created>1604733963131</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1604733963131</updated>
     </task>
     <task id="LOCAL-00043" summary="Backtracking Sudoku">
       <created>1604846421400</created>
@@ -548,7 +535,21 @@
       <option name="project" value="LOCAL" />
       <updated>1613737100040</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="DP TimeMachine_11657.py, Sum_Divide_2225.py">
+      <created>1613823049482</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1613823049482</updated>
+    </task>
+    <task id="LOCAL-00091" summary="DP TimeMachine_11657.py, Sum_Divide_2225.py">
+      <created>1613823063160</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1613823063160</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -574,7 +575,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="DP Matrix_11049.py, MaxSub_11722.py" />
     <MESSAGE value="DP Sticker_9465.py, ETC Erastotenes_4938.py" />
     <MESSAGE value="DFS ConnectedEle_11724.py" />
     <MESSAGE value="DFS Night_7562.py.py" />
@@ -599,7 +599,8 @@
     <MESSAGE value="Brute_Force Rotate_Arr_17406.py" />
     <MESSAGE value="ETC Making_Bridge_17472_Union_Find.py" />
     <MESSAGE value="BFS Specific_Path_1504.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="BFS Specific_Path_1504.py" />
+    <MESSAGE value="DP TimeMachine_11657.py, Sum_Divide_2225.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="DP TimeMachine_11657.py, Sum_Divide_2225.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
