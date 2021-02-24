@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="DFS_BFS A_to_B_16953.py, PQ Dual_PQ_7662.py">
-      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/Hide_Seek2_12851.py" afterDir="false" />
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="BFS Hide_Seek2_12851.py, Hide_Seek3_13549.py">
+      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Buying_Card_11052.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -204,13 +204,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00044" summary="DFS Operator_14888.py">
-      <created>1604930607181</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1604930607181</updated>
     </task>
     <task id="LOCAL-00045" summary="DFS Backtracking Team_14889.py">
       <created>1605103554722</created>
@@ -548,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613911561138</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="BFS Hide_Seek2_12851.py, Hide_Seek3_13549.py">
+      <created>1614090591210</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1614090591210</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -574,7 +574,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="DFS ConnectedEle_11724.py" />
     <MESSAGE value="DFS Night_7562.py.py" />
     <MESSAGE value="DFS Night_7562.py" />
     <MESSAGE value="DFS/BFS Best_Village_1949.py, Path_&#10;, ETC Tree_" />
@@ -599,7 +598,8 @@
     <MESSAGE value="BFS Specific_Path_1504.py" />
     <MESSAGE value="DP TimeMachine_11657.py, Sum_Divide_2225.py" />
     <MESSAGE value="DFS_BFS A_to_B_16953.py, PQ Dual_PQ_7662.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="DFS_BFS A_to_B_16953.py, PQ Dual_PQ_7662.py" />
+    <MESSAGE value="BFS Hide_Seek2_12851.py, Hide_Seek3_13549.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="BFS Hide_Seek2_12851.py, Hide_Seek3_13549.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
