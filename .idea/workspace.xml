@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="DFS Tree_D_1167.py, DP Make_1_2_12852.py">
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="DP LCS2_9252.py">
+      <change afterPath="$PROJECT_DIR$/practice/Priority_Queue/Cards_1715.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Priority_Queue/Nth_largest_2075.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -203,13 +205,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00048" summary="Greedy Lost_bracket_1541.py">
-      <created>1605496777027</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1605496777027</updated>
     </task>
     <task id="LOCAL-00049" summary="Divide Matrix_10830.py">
       <created>1605623313697</created>
@@ -547,7 +542,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614508897821</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="DP LCS2_9252.py">
+      <created>1615210196217</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1615210196218</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -573,7 +575,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Backtracking Max_diff_10819.py&#10;DFS Safe_location_2468.py&#10;ETC Max_Heap_11279.py&#10;DiviedConquer Paper2_1780.py" />
     <MESSAGE value="ETC, Divide and Conquer" />
     <MESSAGE value="Divide Conquer Print_Start_2447.py" />
     <MESSAGE value="BFS Brotherhood_2644.py" />
@@ -598,7 +599,8 @@
     <MESSAGE value="DP Buying_Card_11052.py" />
     <MESSAGE value="DFS Tree_D_1967.py" />
     <MESSAGE value="DFS Tree_D_1167.py, DP Make_1_2_12852.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="DFS Tree_D_1167.py, DP Make_1_2_12852.py" />
+    <MESSAGE value="DP LCS2_9252.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="DP LCS2_9252.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
