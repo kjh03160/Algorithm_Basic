@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="DFS_BFS Minimum_Cost, Exercise_1956.py">
-      <change afterPath="$PROJECT_DIR$/practice/ETC/Divide_City_1647.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/ETC/MST_1197.py" afterDir="false" />
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="ETC Divide_City_1647.py, MST_1197.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -205,13 +203,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00051" summary="DP, Stack School_programmers.py, Histogram_6549.py">
-      <created>1605701059772</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1605701059773</updated>
     </task>
     <task id="LOCAL-00052" summary="dfs Numbering_2667.py, Virus_2606.py">
       <created>1606051132824</created>
@@ -549,7 +540,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615378138067</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="ETC Divide_City_1647.py, MST_1197.py">
+      <created>1615467274540</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1615467274540</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -575,7 +573,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BFS Brotherhood_2644.py" />
     <MESSAGE value="BFS Parent_Node_11725.py, DP Jump_1890.py" />
     <MESSAGE value="move file" />
     <MESSAGE value="DFS_BFS, DP prac" />
@@ -600,7 +597,8 @@
     <MESSAGE value="DP LCS2_9252.py" />
     <MESSAGE value="Priority_Q Cards_1715.py, Nth_largest_2075.py" />
     <MESSAGE value="DFS_BFS Minimum_Cost, Exercise_1956.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="DFS_BFS Minimum_Cost, Exercise_1956.py" />
+    <MESSAGE value="ETC Divide_City_1647.py, MST_1197.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="ETC Divide_City_1647.py, MST_1197.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
