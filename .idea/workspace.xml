@@ -19,7 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="ETC Divide_City_1647.py, MST_1197.py">
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment=".">
+      <change afterPath="$PROJECT_DIR$/practice/ETC/Zip_Point_18870.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -76,7 +77,7 @@
       <recent name="C:\Users\kis03\Desktop\알고리즘\practice\Dynamic_Programming" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.test 복사본">
     <configuration name="FloidWashall_11404" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,10 +185,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test 복사본" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.register" />
         <item itemvalue="Python.macro" />
-        <item itemvalue="Python.test 복사본" />
         <item itemvalue="Python.FloidWashall_11404" />
       </list>
     </recent_temporary>
@@ -203,13 +204,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00052" summary="dfs Numbering_2667.py, Virus_2606.py">
-      <created>1606051132824</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1606051132825</updated>
     </task>
     <task id="LOCAL-00053" summary="DP Tile3_14852.py">
       <created>1606131460726</created>
@@ -547,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615467274540</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary=".">
+      <created>1615560580932</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1615560580932</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -573,7 +574,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BFS Parent_Node_11725.py, DP Jump_1890.py" />
     <MESSAGE value="move file" />
     <MESSAGE value="DFS_BFS, DP prac" />
     <MESSAGE value="prac" />
@@ -598,7 +598,8 @@
     <MESSAGE value="Priority_Q Cards_1715.py, Nth_largest_2075.py" />
     <MESSAGE value="DFS_BFS Minimum_Cost, Exercise_1956.py" />
     <MESSAGE value="ETC Divide_City_1647.py, MST_1197.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="ETC Divide_City_1647.py, MST_1197.py" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
