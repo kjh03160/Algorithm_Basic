@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Trie_5052.py, Zip_Point_18870.py">
-      <change afterPath="$PROJECT_DIR$/practice/ETC/Network_1922.py" afterDir="false" />
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Network_1922.py, Find_Num_1920.py">
+      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/Escape_3055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/RedGreen_10026.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -204,13 +205,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00054" summary="DP App_7579.py Palindrome_10942.py">
-      <created>1606314675400</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1606314675401</updated>
     </task>
     <task id="LOCAL-00055" summary="DFS Downhill_1520.py">
       <created>1606314697412</created>
@@ -548,7 +542,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615630468362</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="Network_1922.py, Find_Num_1920.py">
+      <created>1615729320453</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1615729320454</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -574,7 +575,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="DFS_BFS, DP prac" />
     <MESSAGE value="prac" />
     <MESSAGE value="Kakao 2021 1, 2, 4, 5" />
     <MESSAGE value="DP Pipe_17070.py" />
@@ -599,7 +599,8 @@
     <MESSAGE value="ETC Divide_City_1647.py, MST_1197.py" />
     <MESSAGE value="." />
     <MESSAGE value="Trie_5052.py, Zip_Point_18870.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trie_5052.py, Zip_Point_18870.py" />
+    <MESSAGE value="Network_1922.py, Find_Num_1920.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Network_1922.py, Find_Num_1920.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
