@@ -19,7 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Iceberg_2573.py, Migration_16234.py">
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="DFS Alphabet_1987.py">
+      <change afterPath="$PROJECT_DIR$/practice/Sort/Topology_2056.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -203,13 +204,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00057" summary="BFS Matrix_2178.py, Tomato_7576.py, Tomato2_7569.py">
-      <created>1606487370123</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1606487370123</updated>
     </task>
     <task id="LOCAL-00058" summary="BFS Hide_1697.py">
       <created>1606568313159</created>
@@ -547,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615905569425</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="DFS Alphabet_1987.py">
+      <created>1615989021892</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1615989021892</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -573,7 +574,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="DP Pipe_17070.py" />
     <MESSAGE value="DFS/BFS Castle_Defence_17135.py, Parenthesis_16637.py" />
     <MESSAGE value="Backtracking Room_19621.py, DFS Color_Paper_17136.py, DP Room3_19622.py, PQ ABS_Heap_11286.py, Say_Medium_1655.py" />
     <MESSAGE value="BFS Garry_Mendering_17471.py" />
@@ -598,7 +598,8 @@
     <MESSAGE value="Network_1922.py, Find_Num_1920.py" />
     <MESSAGE value="Escape_3055.py, RedGreen_10026.py" />
     <MESSAGE value="Iceberg_2573.py, Migration_16234.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iceberg_2573.py, Migration_16234.py" />
+    <MESSAGE value="DFS Alphabet_1987.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="DFS Alphabet_1987.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
