@@ -19,8 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Topology_2056.py">
-      <change afterPath="$PROJECT_DIR$/practice/Sort/Line_TPSort_2252.py" afterDir="false" />
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Line_TPSort_2252.py">
+      <change afterPath="$PROJECT_DIR$/Startup_Coding_Festival/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Startup_Coding_Festival/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Startup_Coding_Festival/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Startup_Coding_Festival/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Startup_Coding_Festival/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Startup_Coding_Festival/6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -204,13 +209,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00059" summary="D&amp;C Tree_2805.py">
-      <created>1606829582900</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1606829582900</updated>
     </task>
     <task id="LOCAL-00060" summary="BFS Wall_2206.py, Shortest_1753.py">
       <created>1606995242418</created>
@@ -548,7 +546,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616074067467</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="Line_TPSort_2252.py">
+      <created>1616160386079</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1616160386080</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -574,7 +579,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Backtracking Room_19621.py, DFS Color_Paper_17136.py, DP Room3_19622.py, PQ ABS_Heap_11286.py, Say_Medium_1655.py" />
     <MESSAGE value="BFS Garry_Mendering_17471.py" />
     <MESSAGE value="BruteForce Flower_14620.py" />
     <MESSAGE value="DFS/BFS Bipartite_Graph_1707.py, Crazy_Robot_1405.py" />
@@ -599,7 +603,8 @@
     <MESSAGE value="Iceberg_2573.py, Migration_16234.py" />
     <MESSAGE value="DFS Alphabet_1987.py" />
     <MESSAGE value="Topology_2056.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Topology_2056.py" />
+    <MESSAGE value="Line_TPSort_2252.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Line_TPSort_2252.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
