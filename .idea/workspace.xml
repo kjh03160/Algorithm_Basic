@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Line_TPSort_2252.py">
-      <change afterPath="$PROJECT_DIR$/Startup_Coding_Festival/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Startup_Coding_Festival/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Startup_Coding_Festival/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Startup_Coding_Festival/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Startup_Coding_Festival/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Startup_Coding_Festival/6.py" afterDir="false" />
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Startup_Coding_Festival 2021 03 20">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -209,13 +203,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00060" summary="BFS Wall_2206.py, Shortest_1753.py">
-      <created>1606995242418</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1606995242419</updated>
     </task>
     <task id="LOCAL-00061" summary="DP File_11066.py">
       <created>1607093950422</created>
@@ -553,7 +540,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616160386080</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="Startup_Coding_Festival 2021 03 20">
+      <created>1616232005899</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1616232005899</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -579,7 +573,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BFS Garry_Mendering_17471.py" />
     <MESSAGE value="BruteForce Flower_14620.py" />
     <MESSAGE value="DFS/BFS Bipartite_Graph_1707.py, Crazy_Robot_1405.py" />
     <MESSAGE value="Brute_Force BaseBall_17281.py" />
@@ -604,7 +597,8 @@
     <MESSAGE value="DFS Alphabet_1987.py" />
     <MESSAGE value="Topology_2056.py" />
     <MESSAGE value="Line_TPSort_2252.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Line_TPSort_2252.py" />
+    <MESSAGE value="Startup_Coding_Festival 2021 03 20" />
+    <option name="LAST_COMMIT_MESSAGE" value="Startup_Coding_Festival 2021 03 20" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
