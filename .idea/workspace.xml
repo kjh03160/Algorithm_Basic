@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="SubSum_1806.py">
-      <change afterPath="$PROJECT_DIR$/practice/ETC/Odd_Holic_20164.py" afterDir="false" />
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Domino_20165.py Odd_Holic_20164.py">
+      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Hosek_Twin_Chicken_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -204,13 +204,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00062" summary="DP Easy_Stair_10844.py, Stair_2579.py, Triangle_1932.py">
-      <created>1608644723701</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1608644723703</updated>
     </task>
     <task id="LOCAL-00063" summary="DP RGB_1149.py">
       <created>1608646361710</created>
@@ -548,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616422236391</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="Domino_20165.py Odd_Holic_20164.py">
+      <created>1616507591655</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1616507591656</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -574,7 +574,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="DFS/BFS Bipartite_Graph_1707.py, Crazy_Robot_1405.py" />
     <MESSAGE value="Brute_Force BaseBall_17281.py" />
     <MESSAGE value="Brute_Force Rotate_Arr_17406.py" />
     <MESSAGE value="ETC Making_Bridge_17472_Union_Find.py" />
@@ -599,7 +598,8 @@
     <MESSAGE value="Line_TPSort_2252.py" />
     <MESSAGE value="Startup_Coding_Festival 2021 03 20" />
     <MESSAGE value="SubSum_1806.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="SubSum_1806.py" />
+    <MESSAGE value="Domino_20165.py Odd_Holic_20164.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Domino_20165.py Odd_Holic_20164.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
