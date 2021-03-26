@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Hoseok_Twin_Chicken_4.py">
-      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Hoseok_Twin_Chicken_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/ETC/PhoneHosoekman_21275.py" afterDir="false" />
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Hoseok_Twin_Chicken_4.py, PhoneHosoekman_21275.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -78,7 +76,7 @@
       <recent name="C:\Users\kis03\Desktop\알고리즘\practice\Dynamic_Programming" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.PhoneHosoekman_21275">
+  <component name="RunManager" selected="Python.test 복사본">
     <configuration name="PhoneHosoekman_21275" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,8 +184,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.PhoneHosoekman_21275" />
         <item itemvalue="Python.test 복사본" />
+        <item itemvalue="Python.PhoneHosoekman_21275" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.register" />
         <item itemvalue="Python.macro" />
@@ -205,13 +203,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00064" summary="Codeit Invest.py">
-      <created>1608724519215</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1608724519215</updated>
     </task>
     <task id="LOCAL-00065" summary="DP Matrix_11049.py, MaxSub_11722.py">
       <created>1608821119515</created>
@@ -549,7 +540,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616594766772</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="Hoseok_Twin_Chicken_4.py, PhoneHosoekman_21275.py">
+      <created>1616682572931</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1616682572932</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -575,7 +573,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Brute_Force Rotate_Arr_17406.py" />
     <MESSAGE value="ETC Making_Bridge_17472_Union_Find.py" />
     <MESSAGE value="BFS Specific_Path_1504.py" />
     <MESSAGE value="DP TimeMachine_11657.py, Sum_Divide_2225.py" />
@@ -600,7 +597,8 @@
     <MESSAGE value="SubSum_1806.py" />
     <MESSAGE value="Domino_20165.py Odd_Holic_20164.py" />
     <MESSAGE value="Hoseok_Twin_Chicken_4.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hoseok_Twin_Chicken_4.py" />
+    <MESSAGE value="Hoseok_Twin_Chicken_4.py, PhoneHosoekman_21275.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hoseok_Twin_Chicken_4.py, PhoneHosoekman_21275.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
