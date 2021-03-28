@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Hoseok_Twin_Chicken_4.py, PhoneHosoekman_21275.py">
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Inboarding_3079.py, AMC_Craft.py">
+      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Zoo_1309.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/ETC/Constellation_4386.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -185,8 +187,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.test 복사본" />
-        <item itemvalue="Python.PhoneHosoekman_21275" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.PhoneHosoekman_21275" />
         <item itemvalue="Python.register" />
         <item itemvalue="Python.macro" />
       </list>
@@ -203,27 +205,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00065" summary="DP Matrix_11049.py, MaxSub_11722.py">
-      <created>1608821119515</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1608821119516</updated>
-    </task>
-    <task id="LOCAL-00066" summary="DP Sticker_9465.py, ETC Erastotenes_4938.py">
-      <created>1609596099475</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1609596099476</updated>
-    </task>
-    <task id="LOCAL-00067" summary="DFS ConnectedEle_11724.py">
-      <created>1609675928896</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1609675928897</updated>
     </task>
     <task id="LOCAL-00068" summary="DFS Night_7562.py.py">
       <created>1610804370874</created>
@@ -547,7 +528,28 @@
       <option name="project" value="LOCAL" />
       <updated>1616682572932</updated>
     </task>
-    <option name="localTasksCounter" value="114" />
+    <task id="LOCAL-00114" summary="Ancestor_21276.py">
+      <created>1616768956902</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1616768956903</updated>
+    </task>
+    <task id="LOCAL-00115" summary="Startup Coding Festa 2nd phase">
+      <created>1616854072380</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1616854072380</updated>
+    </task>
+    <task id="LOCAL-00116" summary="Inboarding_3079.py, AMC_Craft.py">
+      <created>1616854095582</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1616854095582</updated>
+    </task>
+    <option name="localTasksCounter" value="117" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -573,9 +575,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ETC Making_Bridge_17472_Union_Find.py" />
-    <MESSAGE value="BFS Specific_Path_1504.py" />
-    <MESSAGE value="DP TimeMachine_11657.py, Sum_Divide_2225.py" />
     <MESSAGE value="DFS_BFS A_to_B_16953.py, PQ Dual_PQ_7662.py" />
     <MESSAGE value="BFS Hide_Seek2_12851.py, Hide_Seek3_13549.py" />
     <MESSAGE value="DP Buying_Card_11052.py" />
@@ -598,7 +597,10 @@
     <MESSAGE value="Domino_20165.py Odd_Holic_20164.py" />
     <MESSAGE value="Hoseok_Twin_Chicken_4.py" />
     <MESSAGE value="Hoseok_Twin_Chicken_4.py, PhoneHosoekman_21275.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hoseok_Twin_Chicken_4.py, PhoneHosoekman_21275.py" />
+    <MESSAGE value="Ancestor_21276.py" />
+    <MESSAGE value="Startup Coding Festa 2nd phase" />
+    <MESSAGE value="Inboarding_3079.py, AMC_Craft.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inboarding_3079.py, AMC_Craft.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
