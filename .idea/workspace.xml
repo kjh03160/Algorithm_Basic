@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="prac">
-      <change afterPath="$PROJECT_DIR$/practice/ETC/Level3_1_Programmers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/ETC/Level3_2_Programmers.py" afterDir="false" />
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="L3 Programmers">
+      <change afterPath="$PROJECT_DIR$/practice/Greedy/Hamberger_19941.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -205,13 +204,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00069" summary="DFS Night_7562.py">
-      <created>1610805150825</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1610805150825</updated>
     </task>
     <task id="LOCAL-00070" summary="DFS/BFS Best_Village_1949.py, Path_&#10;, ETC Tree_">
       <created>1610887505395</created>
@@ -549,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616938158103</updated>
     </task>
-    <option name="localTasksCounter" value="118" />
+    <task id="LOCAL-00118" summary="L3 Programmers">
+      <created>1617027075642</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1617027075643</updated>
+    </task>
+    <option name="localTasksCounter" value="119" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -575,7 +574,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BFS Hide_Seek2_12851.py, Hide_Seek3_13549.py" />
     <MESSAGE value="DP Buying_Card_11052.py" />
     <MESSAGE value="DFS Tree_D_1967.py" />
     <MESSAGE value="DFS Tree_D_1167.py, DP Make_1_2_12852.py" />
@@ -600,7 +598,8 @@
     <MESSAGE value="Startup Coding Festa 2nd phase" />
     <MESSAGE value="Inboarding_3079.py, AMC_Craft.py" />
     <MESSAGE value="prac" />
-    <option name="LAST_COMMIT_MESSAGE" value="prac" />
+    <MESSAGE value="L3 Programmers" />
+    <option name="LAST_COMMIT_MESSAGE" value="L3 Programmers" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
