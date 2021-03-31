@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="L3 Programmers">
-      <change afterPath="$PROJECT_DIR$/practice/Greedy/Hamberger_19941.py" afterDir="false" />
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Hamberger_19941.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -77,7 +76,7 @@
       <recent name="C:\Users\kis03\Desktop\알고리즘\practice\Dynamic_Programming" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test 복사본">
+  <component name="RunManager" selected="Python.test">
     <configuration name="PhoneHosoekman_21275" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,8 +184,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test 복사본" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.test 복사본" />
         <item itemvalue="Python.PhoneHosoekman_21275" />
         <item itemvalue="Python.register" />
         <item itemvalue="Python.macro" />
@@ -204,13 +203,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00070" summary="DFS/BFS Best_Village_1949.py, Path_&#10;, ETC Tree_">
-      <created>1610887505395</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1610887505396</updated>
     </task>
     <task id="LOCAL-00071" summary="Backtracking Max_diff_10819.py&#10;DFS Safe_location_2468.py&#10;ETC Max_Heap_11279.py&#10;DiviedConquer Paper2_1780.py">
       <created>1611401923166</created>
@@ -548,7 +540,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617027075643</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <task id="LOCAL-00119" summary="Hamberger_19941.py">
+      <created>1617113100502</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1617113100502</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -574,7 +573,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="DP Buying_Card_11052.py" />
     <MESSAGE value="DFS Tree_D_1967.py" />
     <MESSAGE value="DFS Tree_D_1167.py, DP Make_1_2_12852.py" />
     <MESSAGE value="DP LCS2_9252.py" />
@@ -599,7 +597,8 @@
     <MESSAGE value="Inboarding_3079.py, AMC_Craft.py" />
     <MESSAGE value="prac" />
     <MESSAGE value="L3 Programmers" />
-    <option name="LAST_COMMIT_MESSAGE" value="L3 Programmers" />
+    <MESSAGE value="Hamberger_19941.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hamberger_19941.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
