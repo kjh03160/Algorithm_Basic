@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Hamberger_19941.py">
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Prefix_Sum_11660.py">
+      <change afterPath="$PROJECT_DIR$/practice/ETC/Prefix_Mod_10986.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/ETC/Prefix_Sum_2015.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -203,13 +205,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00071" summary="Backtracking Max_diff_10819.py&#10;DFS Safe_location_2468.py&#10;ETC Max_Heap_11279.py&#10;DiviedConquer Paper2_1780.py">
-      <created>1611401923166</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1611401923167</updated>
     </task>
     <task id="LOCAL-00072" summary="ETC, Divide and Conquer">
       <created>1611490285935</created>
@@ -547,7 +542,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617113100502</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="Prefix_Sum_11660.py">
+      <created>1617200932646</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1617200932646</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -573,7 +575,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="DFS Tree_D_1967.py" />
     <MESSAGE value="DFS Tree_D_1167.py, DP Make_1_2_12852.py" />
     <MESSAGE value="DP LCS2_9252.py" />
     <MESSAGE value="Priority_Q Cards_1715.py, Nth_largest_2075.py" />
@@ -598,7 +599,8 @@
     <MESSAGE value="prac" />
     <MESSAGE value="L3 Programmers" />
     <MESSAGE value="Hamberger_19941.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hamberger_19941.py" />
+    <MESSAGE value="Prefix_Sum_11660.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prefix_Sum_11660.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
