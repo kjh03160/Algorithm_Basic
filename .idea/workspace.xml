@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="RGB2_17404.py">
-      <change afterPath="$PROJECT_DIR$/practice/Back_Tracking/Sudoku2_2239.py" afterDir="false" />
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Lie_1043.py">
+      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/Term_Project_9466.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -204,13 +204,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00074" summary="BFS Brotherhood_2644.py">
-      <created>1611844189014</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1611844189015</updated>
     </task>
     <task id="LOCAL-00075" summary="BFS Parent_Node_11725.py, DP Jump_1890.py">
       <created>1611928262985</created>
@@ -548,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617373063753</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="Lie_1043.py">
+      <created>1617459506477</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1617459506477</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -574,7 +574,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Priority_Q Cards_1715.py, Nth_largest_2075.py" />
     <MESSAGE value="DFS_BFS Minimum_Cost, Exercise_1956.py" />
     <MESSAGE value="ETC Divide_City_1647.py, MST_1197.py" />
     <MESSAGE value="." />
@@ -599,7 +598,8 @@
     <MESSAGE value="Prefix_Sum_11660.py" />
     <MESSAGE value="Prefix_Mod_10986.py, Prefix_Sum_2015.py" />
     <MESSAGE value="RGB2_17404.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="RGB2_17404.py" />
+    <MESSAGE value="Lie_1043.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lie_1043.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
