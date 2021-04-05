@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Lie_1043.py">
-      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/Term_Project_9466.py" afterDir="false" />
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Hacking_1325.py, Term_Project_9466.py">
+      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/SCC_2150.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/ETC/LCA_11473.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -204,13 +205,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00075" summary="BFS Parent_Node_11725.py, DP Jump_1890.py">
-      <created>1611928262985</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1611928262986</updated>
     </task>
     <task id="LOCAL-00076" summary="move file">
       <created>1611928883664</created>
@@ -548,7 +542,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617459506477</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="Hacking_1325.py, Term_Project_9466.py">
+      <created>1617543483690</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1617543483690</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -574,7 +575,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="DFS_BFS Minimum_Cost, Exercise_1956.py" />
     <MESSAGE value="ETC Divide_City_1647.py, MST_1197.py" />
     <MESSAGE value="." />
     <MESSAGE value="Trie_5052.py, Zip_Point_18870.py" />
@@ -599,7 +599,8 @@
     <MESSAGE value="Prefix_Mod_10986.py, Prefix_Sum_2015.py" />
     <MESSAGE value="RGB2_17404.py" />
     <MESSAGE value="Lie_1043.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lie_1043.py" />
+    <MESSAGE value="Hacking_1325.py, Term_Project_9466.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hacking_1325.py, Term_Project_9466.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
