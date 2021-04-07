@@ -19,7 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="LCA2_11438.py, LCA_11473.py, SCC_2150.py">
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Coin2_2294.py">
+      <change afterPath="$PROJECT_DIR$/practice/ETC/String_14425.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -203,13 +204,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00077" summary="DFS_BFS, DP prac">
-      <created>1612011783613</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1612011783613</updated>
     </task>
     <task id="LOCAL-00078" summary="prac">
       <created>1612102978199</created>
@@ -547,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617629629290</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="Coin2_2294.py">
+      <created>1617718870309</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1617718870310</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -573,7 +574,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="." />
     <MESSAGE value="Trie_5052.py, Zip_Point_18870.py" />
     <MESSAGE value="Network_1922.py, Find_Num_1920.py" />
     <MESSAGE value="Escape_3055.py, RedGreen_10026.py" />
@@ -598,7 +598,8 @@
     <MESSAGE value="Lie_1043.py" />
     <MESSAGE value="Hacking_1325.py, Term_Project_9466.py" />
     <MESSAGE value="LCA2_11438.py, LCA_11473.py, SCC_2150.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="LCA2_11438.py, LCA_11473.py, SCC_2150.py" />
+    <MESSAGE value="Coin2_2294.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Coin2_2294.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
