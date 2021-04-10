@@ -19,7 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Nemmo_14712.py">
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Nemmo2020_19845.py">
+      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Move_11048.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -203,13 +204,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00080" summary="DP Pipe_17070.py">
-      <created>1612320087104</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1612320087105</updated>
     </task>
     <task id="LOCAL-00081" summary="DFS/BFS Castle_Defence_17135.py, Parenthesis_16637.py">
       <created>1612601400155</created>
@@ -547,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617888998655</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="Nemmo2020_19845.py">
+      <created>1617976853487</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1617976853487</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -573,7 +574,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Escape_3055.py, RedGreen_10026.py" />
     <MESSAGE value="Iceberg_2573.py, Migration_16234.py" />
     <MESSAGE value="DFS Alphabet_1987.py" />
     <MESSAGE value="Topology_2056.py" />
@@ -598,7 +598,8 @@
     <MESSAGE value="Coin2_2294.py" />
     <MESSAGE value="Game_1516.py, String_14425.py" />
     <MESSAGE value="Nemmo_14712.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nemmo_14712.py" />
+    <MESSAGE value="Nemmo2020_19845.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nemmo2020_19845.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
