@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Move_11048.py">
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Toemos_18222.py">
       <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Milk_14722.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -204,13 +204,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00082" summary="Backtracking Room_19621.py, DFS Color_Paper_17136.py, DP Room3_19622.py, PQ ABS_Heap_11286.py, Say_Medium_1655.py">
-      <created>1612687984759</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1612687984759</updated>
     </task>
     <task id="LOCAL-00083" summary="BFS Garry_Mendering_17471.py">
       <created>1612788944823</created>
@@ -548,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618061171820</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="Toemos_18222.py">
+      <created>1618235226373</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1618235226373</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -574,7 +574,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="DFS Alphabet_1987.py" />
     <MESSAGE value="Topology_2056.py" />
     <MESSAGE value="Line_TPSort_2252.py" />
     <MESSAGE value="Startup_Coding_Festival 2021 03 20" />
@@ -599,7 +598,8 @@
     <MESSAGE value="Nemmo_14712.py" />
     <MESSAGE value="Nemmo2020_19845.py" />
     <MESSAGE value="Move_11048.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Move_11048.py" />
+    <MESSAGE value="Toemos_18222.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Toemos_18222.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
