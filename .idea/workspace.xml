@@ -19,8 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Toemos_18222.py">
-      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Milk_14722.py" afterDir="false" />
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Party_1238.py">
+      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/_Stair2_goorm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/_Stair_goorm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/ETC/Inboarding_goorm.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -204,13 +206,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00083" summary="BFS Garry_Mendering_17471.py">
-      <created>1612788944823</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1612788944823</updated>
     </task>
     <task id="LOCAL-00084" summary="BruteForce Flower_14620.py">
       <created>1612878184834</created>
@@ -548,7 +543,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618235226373</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="Party_1238.py">
+      <created>1618323597148</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1618323597149</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -574,7 +576,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Topology_2056.py" />
     <MESSAGE value="Line_TPSort_2252.py" />
     <MESSAGE value="Startup_Coding_Festival 2021 03 20" />
     <MESSAGE value="SubSum_1806.py" />
@@ -599,7 +600,8 @@
     <MESSAGE value="Nemmo2020_19845.py" />
     <MESSAGE value="Move_11048.py" />
     <MESSAGE value="Toemos_18222.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Toemos_18222.py" />
+    <MESSAGE value="Party_1238.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Party_1238.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
