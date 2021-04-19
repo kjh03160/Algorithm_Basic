@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Two Pointer Rotating_Sushi_15961.py">
-      <change afterPath="$PROJECT_DIR$/practice/ETC/Submarine_2671.py" afterDir="false" />
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Train_15787.py, Submarine_2671.py">
+      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Card_Game_11062.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -202,13 +202,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00088" summary="ETC Making_Bridge_17472_Union_Find.py">
-      <created>1613533515601</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1613533515601</updated>
     </task>
     <task id="LOCAL-00089" summary="BFS Specific_Path_1504.py">
       <created>1613737100040</created>
@@ -546,7 +539,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618664780416</updated>
     </task>
-    <option name="localTasksCounter" value="137" />
+    <task id="LOCAL-00137" summary="Train_15787.py, Submarine_2671.py">
+      <created>1618749743000</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1618749743001</updated>
+    </task>
+    <option name="localTasksCounter" value="138" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -572,7 +572,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Hoseok_Twin_Chicken_4.py" />
     <MESSAGE value="Hoseok_Twin_Chicken_4.py, PhoneHosoekman_21275.py" />
     <MESSAGE value="Ancestor_21276.py" />
     <MESSAGE value="Startup Coding Festa 2nd phase" />
@@ -597,7 +596,8 @@
     <MESSAGE value="Programmers Monthly Test - April" />
     <MESSAGE value="PQ Min_Meeting_Room_19598.py" />
     <MESSAGE value="Two Pointer Rotating_Sushi_15961.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Two Pointer Rotating_Sushi_15961.py" />
+    <MESSAGE value="Train_15787.py, Submarine_2671.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Train_15787.py, Submarine_2671.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
