@@ -19,8 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Train_15787.py, Submarine_2671.py">
-      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Card_Game_11062.py" afterDir="false" />
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Card_Game_11062.py, Prime_Path_1963.py">
+      <change afterPath="$PROJECT_DIR$/practice/ETC/Chicken_15686.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/ETC/Cycle_Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/ETC/Set_1717.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -77,7 +79,7 @@
       <recent name="C:\Users\kis03\Desktop\알고리즘\practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.test 복사본">
     <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,6 +164,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test 복사본" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="알고리즘" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test 복사본.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,6 +208,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test 복사본" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.3" />
         <item itemvalue="Python.2" />
@@ -202,13 +226,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00089" summary="BFS Specific_Path_1504.py">
-      <created>1613737100040</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1613737100040</updated>
     </task>
     <task id="LOCAL-00090" summary="DP TimeMachine_11657.py, Sum_Divide_2225.py">
       <created>1613823049482</created>
@@ -546,7 +563,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618749743001</updated>
     </task>
-    <option name="localTasksCounter" value="138" />
+    <task id="LOCAL-00138" summary="Card_Game_11062.py, Prime_Path_1963.py">
+      <created>1618838598431</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1618838598431</updated>
+    </task>
+    <option name="localTasksCounter" value="139" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -572,7 +596,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Hoseok_Twin_Chicken_4.py, PhoneHosoekman_21275.py" />
     <MESSAGE value="Ancestor_21276.py" />
     <MESSAGE value="Startup Coding Festa 2nd phase" />
     <MESSAGE value="Inboarding_3079.py, AMC_Craft.py" />
@@ -597,7 +620,8 @@
     <MESSAGE value="PQ Min_Meeting_Room_19598.py" />
     <MESSAGE value="Two Pointer Rotating_Sushi_15961.py" />
     <MESSAGE value="Train_15787.py, Submarine_2671.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Train_15787.py, Submarine_2671.py" />
+    <MESSAGE value="Card_Game_11062.py, Prime_Path_1963.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Card_Game_11062.py, Prime_Path_1963.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
