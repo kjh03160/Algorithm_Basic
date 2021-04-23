@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Cycle_Game.py, Set_1717.py">
-      <change afterPath="$PROJECT_DIR$/practice/ETC/Candidate_1713.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/ETC/Chicken_15686.py" afterDir="false" />
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Candidate_1713.py, Rotate_Circle_17822.py">
+      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/Password_1759.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Game_1103.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -78,7 +78,7 @@
       <recent name="C:\Users\kis03\Desktop\알고리즘\practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.xx">
     <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -228,8 +228,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
         <item itemvalue="Python.xx" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.test 복사본" />
         <item itemvalue="Python.Chicken_15686" />
         <item itemvalue="Python.3" />
@@ -247,13 +247,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00091" summary="DP TimeMachine_11657.py, Sum_Divide_2225.py">
-      <created>1613823063160</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1613823063160</updated>
     </task>
     <task id="LOCAL-00092" summary="DFS_BFS A_to_B_16953.py, PQ Dual_PQ_7662.py">
       <created>1613911561137</created>
@@ -591,7 +584,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619009431530</updated>
     </task>
-    <option name="localTasksCounter" value="140" />
+    <task id="LOCAL-00140" summary="Candidate_1713.py, Rotate_Circle_17822.py">
+      <created>1619095830053</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1619095830054</updated>
+    </task>
+    <option name="localTasksCounter" value="141" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -617,7 +617,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Startup Coding Festa 2nd phase" />
     <MESSAGE value="Inboarding_3079.py, AMC_Craft.py" />
     <MESSAGE value="prac" />
     <MESSAGE value="L3 Programmers" />
@@ -642,7 +641,8 @@
     <MESSAGE value="Train_15787.py, Submarine_2671.py" />
     <MESSAGE value="Card_Game_11062.py, Prime_Path_1963.py" />
     <MESSAGE value="Cycle_Game.py, Set_1717.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cycle_Game.py, Set_1717.py" />
+    <MESSAGE value="Candidate_1713.py, Rotate_Circle_17822.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Candidate_1713.py, Rotate_Circle_17822.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
