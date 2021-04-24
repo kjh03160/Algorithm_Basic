@@ -19,9 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Candidate_1713.py, Rotate_Circle_17822.py">
-      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/Password_1759.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Game_1103.py" afterDir="false" />
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Password_1759.py, Game_1103.py">
+      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/Treasure_2589.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Stepping_Stone_Programmers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Thief_Programmers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/ETC/AC_5430.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -78,7 +80,7 @@
       <recent name="C:\Users\kis03\Desktop\알고리즘\practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.xx">
+  <component name="RunManager" selected="Python.3">
     <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -228,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3" />
         <item itemvalue="Python.xx" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.test 복사본" />
         <item itemvalue="Python.Chicken_15686" />
-        <item itemvalue="Python.3" />
       </list>
     </recent_temporary>
   </component>
@@ -247,13 +249,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00092" summary="DFS_BFS A_to_B_16953.py, PQ Dual_PQ_7662.py">
-      <created>1613911561137</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1613911561138</updated>
     </task>
     <task id="LOCAL-00093" summary="BFS Hide_Seek2_12851.py, Hide_Seek3_13549.py">
       <created>1614090591210</created>
@@ -591,7 +586,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619095830054</updated>
     </task>
-    <option name="localTasksCounter" value="141" />
+    <task id="LOCAL-00141" summary="Password_1759.py, Game_1103.py">
+      <created>1619185852473</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1619185852473</updated>
+    </task>
+    <option name="localTasksCounter" value="142" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -617,7 +619,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Inboarding_3079.py, AMC_Craft.py" />
     <MESSAGE value="prac" />
     <MESSAGE value="L3 Programmers" />
     <MESSAGE value="Hamberger_19941.py" />
@@ -642,7 +643,8 @@
     <MESSAGE value="Card_Game_11062.py, Prime_Path_1963.py" />
     <MESSAGE value="Cycle_Game.py, Set_1717.py" />
     <MESSAGE value="Candidate_1713.py, Rotate_Circle_17822.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Candidate_1713.py, Rotate_Circle_17822.py" />
+    <MESSAGE value="Password_1759.py, Game_1103.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Password_1759.py, Game_1103.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
