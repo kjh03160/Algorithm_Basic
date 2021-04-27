@@ -19,7 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Game_1072.py">
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Math_1339.py">
+      <change afterPath="$PROJECT_DIR$/practice/ETC/Short_Way_1446.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -77,27 +78,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.xx">
-    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="알고리즘" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers_Monthly_Test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers_Monthly_Test/April/2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Chicken_15686" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Short_Way_1446" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,7 +132,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/ETC/Chicken_15686.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/ETC/Short_Way_1446.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,10 +207,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.xx" />
+        <item itemvalue="Python.Short_Way_1446" />
         <item itemvalue="Python.3" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.test 복사본" />
-        <item itemvalue="Python.Chicken_15686" />
       </list>
     </recent_temporary>
   </component>
@@ -245,13 +225,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00095" summary="DFS Tree_D_1967.py">
-      <created>1614261949212</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1614261949212</updated>
     </task>
     <task id="LOCAL-00096" summary="DFS Tree_D_1167.py, DP Make_1_2_12852.py">
       <created>1614508897820</created>
@@ -589,7 +562,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619359054146</updated>
     </task>
-    <option name="localTasksCounter" value="144" />
+    <task id="LOCAL-00144" summary="Math_1339.py">
+      <created>1619442775488</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1619442775488</updated>
+    </task>
+    <option name="localTasksCounter" value="145" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -615,7 +595,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Hamberger_19941.py" />
     <MESSAGE value="Prefix_Sum_11660.py" />
     <MESSAGE value="Prefix_Mod_10986.py, Prefix_Sum_2015.py" />
     <MESSAGE value="RGB2_17404.py" />
@@ -640,7 +619,8 @@
     <MESSAGE value="Password_1759.py, Game_1103.py" />
     <MESSAGE value="AC_5430.py, Stepping_Stone_Programmers.py, Thief_Programmers.py" />
     <MESSAGE value="Game_1072.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Game_1072.py" />
+    <MESSAGE value="Math_1339.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Math_1339.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
