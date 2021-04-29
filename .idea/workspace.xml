@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="0_7453.py, Short_Way_1446.py">
-      <change afterPath="$PROJECT_DIR$/practice/ETC/Array_Sum_2143.py" afterDir="false" />
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Array_Sum_2143.py">
+      <change afterPath="$PROJECT_DIR$/practice/ETC/Is_Tree_6416.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -225,13 +225,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00097" summary="DP LCS2_9252.py">
-      <created>1615210196217</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1615210196218</updated>
     </task>
     <task id="LOCAL-00098" summary="Priority_Q Cards_1715.py, Nth_largest_2075.py">
       <created>1615295856536</created>
@@ -569,7 +562,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619529568514</updated>
     </task>
-    <option name="localTasksCounter" value="146" />
+    <task id="LOCAL-00146" summary="Array_Sum_2143.py">
+      <created>1619619540292</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1619619540292</updated>
+    </task>
+    <option name="localTasksCounter" value="147" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -595,7 +595,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Prefix_Mod_10986.py, Prefix_Sum_2015.py" />
     <MESSAGE value="RGB2_17404.py" />
     <MESSAGE value="Lie_1043.py" />
     <MESSAGE value="Hacking_1325.py, Term_Project_9466.py" />
@@ -620,7 +619,8 @@
     <MESSAGE value="Game_1072.py" />
     <MESSAGE value="Math_1339.py" />
     <MESSAGE value="0_7453.py, Short_Way_1446.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="0_7453.py, Short_Way_1446.py" />
+    <MESSAGE value="Array_Sum_2143.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Array_Sum_2143.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
