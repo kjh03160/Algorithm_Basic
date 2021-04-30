@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Array_Sum_2143.py">
-      <change afterPath="$PROJECT_DIR$/practice/ETC/Is_Tree_6416.py" afterDir="false" />
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Is_Tree_6416.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -77,7 +76,7 @@
       <recent name="C:\Users\kis03\Desktop\알고리즘\practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.xx">
+  <component name="RunManager" selected="Python.test">
     <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,10 +205,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.xx" />
         <item itemvalue="Python.Short_Way_1446" />
         <item itemvalue="Python.3" />
-        <item itemvalue="Python.test" />
         <item itemvalue="Python.test 복사본" />
       </list>
     </recent_temporary>
@@ -225,13 +224,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00098" summary="Priority_Q Cards_1715.py, Nth_largest_2075.py">
-      <created>1615295856536</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1615295856537</updated>
     </task>
     <task id="LOCAL-00099" summary="DFS_BFS Minimum_Cost, Exercise_1956.py">
       <created>1615378138067</created>
@@ -569,7 +561,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619619540292</updated>
     </task>
-    <option name="localTasksCounter" value="147" />
+    <task id="LOCAL-00147" summary="Is_Tree_6416.py">
+      <created>1619698478533</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1619698478533</updated>
+    </task>
+    <option name="localTasksCounter" value="148" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -595,7 +594,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="RGB2_17404.py" />
     <MESSAGE value="Lie_1043.py" />
     <MESSAGE value="Hacking_1325.py, Term_Project_9466.py" />
     <MESSAGE value="LCA2_11438.py, LCA_11473.py, SCC_2150.py" />
@@ -620,7 +618,8 @@
     <MESSAGE value="Math_1339.py" />
     <MESSAGE value="0_7453.py, Short_Way_1446.py" />
     <MESSAGE value="Array_Sum_2143.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Array_Sum_2143.py" />
+    <MESSAGE value="Is_Tree_6416.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Is_Tree_6416.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
