@@ -19,12 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Disk_Scheduel_Programmers.py, Right_BIg_17298.py, Tower_2493.py">
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="SNS_2533.py, Overtaking_2002.py">
       <change afterPath="$PROJECT_DIR$/LINE_AD_Intern/1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LINE_AD_Intern/2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LINE_AD_Intern/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/SNS_2533.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/ETC/Overtaking_2002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Height_2458.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/ETC/Three_Liquid_2473.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/ETC/Two_Liquid_2470.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -229,13 +230,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00101" summary=".">
-      <created>1615560580932</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1615560580932</updated>
     </task>
     <task id="LOCAL-00102" summary="Trie_5052.py, Zip_Point_18870.py">
       <created>1615630468362</created>
@@ -573,7 +567,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619960558161</updated>
     </task>
-    <option name="localTasksCounter" value="150" />
+    <task id="LOCAL-00150" summary="SNS_2533.py, Overtaking_2002.py">
+      <created>1620042864393</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1620042864393</updated>
+    </task>
+    <option name="localTasksCounter" value="151" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -599,7 +600,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="LCA2_11438.py, LCA_11473.py, SCC_2150.py" />
     <MESSAGE value="Coin2_2294.py" />
     <MESSAGE value="Game_1516.py, String_14425.py" />
     <MESSAGE value="Nemmo_14712.py" />
@@ -624,7 +624,8 @@
     <MESSAGE value="Is_Tree_6416.py" />
     <MESSAGE value="Word_1062.py" />
     <MESSAGE value="Disk_Scheduel_Programmers.py, Right_BIg_17298.py, Tower_2493.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Disk_Scheduel_Programmers.py, Right_BIg_17298.py, Tower_2493.py" />
+    <MESSAGE value="SNS_2533.py, Overtaking_2002.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="SNS_2533.py, Overtaking_2002.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
