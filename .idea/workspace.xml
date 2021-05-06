@@ -19,13 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Two_Liquid_2470.py, Three_Liquid_2473.py">
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Zelda_4485.py, Gems_Programmers.py">
       <change afterPath="$PROJECT_DIR$/LINE_AD_Intern/1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LINE_AD_Intern/2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LINE_AD_Intern/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/Zelda_4485.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Biggest_Square_1915.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Height_2458.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/ETC/Gems_Programmers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -230,13 +229,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00103" summary="Network_1922.py, Find_Num_1920.py">
-      <created>1615729320453</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1615729320454</updated>
     </task>
     <task id="LOCAL-00104" summary="Escape_3055.py, RedGreen_10026.py">
       <created>1615817860943</created>
@@ -574,7 +566,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620131752907</updated>
     </task>
-    <option name="localTasksCounter" value="152" />
+    <task id="LOCAL-00152" summary="Zelda_4485.py, Gems_Programmers.py">
+      <created>1620217004367</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1620217004368</updated>
+    </task>
+    <option name="localTasksCounter" value="153" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -600,7 +599,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Game_1516.py, String_14425.py" />
     <MESSAGE value="Nemmo_14712.py" />
     <MESSAGE value="Nemmo2020_19845.py" />
     <MESSAGE value="Move_11048.py" />
@@ -625,7 +623,8 @@
     <MESSAGE value="Disk_Scheduel_Programmers.py, Right_BIg_17298.py, Tower_2493.py" />
     <MESSAGE value="SNS_2533.py, Overtaking_2002.py" />
     <MESSAGE value="Two_Liquid_2470.py, Three_Liquid_2473.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Two_Liquid_2470.py, Three_Liquid_2473.py" />
+    <MESSAGE value="Zelda_4485.py, Gems_Programmers.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zelda_4485.py, Gems_Programmers.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
