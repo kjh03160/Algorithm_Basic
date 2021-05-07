@@ -19,12 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Zelda_4485.py, Gems_Programmers.py">
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Biggest_Square_1915.py, Height_2458.py">
       <change afterPath="$PROJECT_DIR$/LINE_AD_Intern/1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LINE_AD_Intern/2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LINE_AD_Intern/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Biggest_Square_1915.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice/Dynamic_Programming/Height_2458.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
@@ -81,7 +79,7 @@
       <recent name="C:\Users\kis03\Desktop\알고리즘\practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.xx">
     <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -210,8 +208,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
         <item itemvalue="Python.xx" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.3 (1)" />
         <item itemvalue="Python.2" />
         <item itemvalue="Python.Short_Way_1446" />
@@ -229,13 +227,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00104" summary="Escape_3055.py, RedGreen_10026.py">
-      <created>1615817860943</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1615817860943</updated>
     </task>
     <task id="LOCAL-00105" summary="Iceberg_2573.py, Migration_16234.py">
       <created>1615905569424</created>
@@ -573,7 +564,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620217004368</updated>
     </task>
-    <option name="localTasksCounter" value="153" />
+    <task id="LOCAL-00153" summary="Biggest_Square_1915.py, Height_2458.py">
+      <created>1620302823267</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1620302823267</updated>
+    </task>
+    <option name="localTasksCounter" value="154" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -599,7 +597,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Nemmo_14712.py" />
     <MESSAGE value="Nemmo2020_19845.py" />
     <MESSAGE value="Move_11048.py" />
     <MESSAGE value="Toemos_18222.py" />
@@ -624,7 +621,8 @@
     <MESSAGE value="SNS_2533.py, Overtaking_2002.py" />
     <MESSAGE value="Two_Liquid_2470.py, Three_Liquid_2473.py" />
     <MESSAGE value="Zelda_4485.py, Gems_Programmers.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zelda_4485.py, Gems_Programmers.py" />
+    <MESSAGE value="Biggest_Square_1915.py, Height_2458.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Biggest_Square_1915.py, Height_2458.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
