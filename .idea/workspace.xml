@@ -19,11 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Biggest_Square_1915.py, Height_2458.py">
+    <list default="true" id="a06764ba-a197-408b-afd0-63f79cb8b794" name="Default Changelist" comment="Banned_Programmers.py">
       <change afterPath="$PROJECT_DIR$/LINE_AD_Intern/1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LINE_AD_Intern/2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/LINE_AD_Intern/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/DFS_BFS/Cave_Programmers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/ETC/Stone_Jump_Programmers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/ETC/MST_1197.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/ETC/MST_1197.py" afterDir="false" />
     </list>
     <list id="b1f4e4f0-2913-46bc-a2f6-2958c55a887d" name="ETC Rotating_queue_1021.py" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +83,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.xx">
-    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,32 +91,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LINE_AD_Intern" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kakao_Intern_2021" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LINE_AD_Intern/2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="알고리즘" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LINE_AD_Intern" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LINE_AD_Intern/3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kakao_Intern_2021/2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,11 +112,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers_Monthly_Test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kakao_Intern_2021" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers_Monthly_Test/April/3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kakao_Intern_2021/3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Short_Way_1446" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,11 +133,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice/ETC" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kakao_Intern_2021" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/ETC/Short_Way_1446.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kakao_Intern_2021/4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -172,11 +154,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kakao_Intern_2021" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Kakao_Intern_2021/5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,10 +191,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.xx" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.3 (1)" />
-        <item itemvalue="Python.2" />
-        <item itemvalue="Python.Short_Way_1446" />
+        <item itemvalue="Python.3" />
+        <item itemvalue="Python.4" />
+        <item itemvalue="Python.5" />
+        <item itemvalue="Python.2 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -227,13 +209,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595660960581</updated>
-    </task>
-    <task id="LOCAL-00105" summary="Iceberg_2573.py, Migration_16234.py">
-      <created>1615905569424</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1615905569425</updated>
     </task>
     <task id="LOCAL-00106" summary="DFS Alphabet_1987.py">
       <created>1615989021892</created>
@@ -571,7 +546,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620302823267</updated>
     </task>
-    <option name="localTasksCounter" value="154" />
+    <task id="LOCAL-00154" summary="Banned_Programmers.py">
+      <created>1620391623132</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1620391623132</updated>
+    </task>
+    <option name="localTasksCounter" value="155" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -597,7 +579,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Nemmo2020_19845.py" />
     <MESSAGE value="Move_11048.py" />
     <MESSAGE value="Toemos_18222.py" />
     <MESSAGE value="Party_1238.py" />
@@ -622,7 +603,8 @@
     <MESSAGE value="Two_Liquid_2470.py, Three_Liquid_2473.py" />
     <MESSAGE value="Zelda_4485.py, Gems_Programmers.py" />
     <MESSAGE value="Biggest_Square_1915.py, Height_2458.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Biggest_Square_1915.py, Height_2458.py" />
+    <MESSAGE value="Banned_Programmers.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Banned_Programmers.py" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
