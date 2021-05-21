@@ -11,16 +11,16 @@ def quicksort(arr, first, last):
 
 def partition(arr, first, last):
     pivot = arr[last]   # 피벗 설정
-    i = first  # 탐색 위치
-    b = first  # Big 그룹 시작 위치
-    while i < last: # last 까지 탐색하기
-        if arr[i] < pivot:  # 피벗보다 작은 값 찾음
-            swap_elements(arr, b, i)    # Big 그룹 시작 직전의 값과 현재 값(pivot보다 작은)을 swap
-            b += 1  # Big 그룹의 인덱스 + 1
-        i += 1  # 탐색 위치 + 1
+    now = first  # 탐색 위치
+    mid = first  # Big 그룹 시작 위치
+    while now < last: # last 까지 탐색하기
+        if arr[now] < pivot:  # 피벗보다 작은 값 찾음
+            swap_elements(arr, mid, now)    # Big 그룹 시작 직전의 값과 현재 값(pivot보다 작은)을 swap
+            mid += 1  # Big 그룹의 인덱스 + 1
+        now += 1  # 탐색 위치 + 1
 
-    swap_elements(arr, b, i)    # 피벗이 들어갈 위치로 swap
-    return b    # 피벗의 위치 리턴
+    swap_elements(arr, mid, now)    # 피벗이 들어갈 위치로 swap
+    return mid    # 피벗의 위치 리턴
 
 # not in place
 def quicksort2(arr):
@@ -37,3 +37,8 @@ def quicksort2(arr):
         else:
             M.append(i)
     return quicksort2(L) + M + quicksort2(R)
+
+
+arr = [4, 5, 6,3,21,43]
+print(quicksort(arr, 0, len(arr) - 1))
+print(arr)
